@@ -3461,6 +3461,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**CLIP-AGIQA: Boosting the Performance of AI-Generated Image Quality Assessment with CLIP**|Zhenchen Tang et.al.|[2408.15098](http://arxiv.org/abs/2408.15098)|null|
+|**2024-08-27**|**HPT++: Hierarchically Prompting Vision-Language Models with Multi-Granularity Knowledge Generation and Improved Structure Modeling**|Yubin Wang et.al.|[2408.14812](http://arxiv.org/abs/2408.14812)|null|
+|**2024-08-27**|**MROVSeg: Breaking the Resolution Curse of Vision-Language Models in Open-Vocabulary Semantic Segmentation**|Yuanbing Zhu et.al.|[2408.14776](http://arxiv.org/abs/2408.14776)|null|
+|**2024-08-27**|**SynthDoc: Bilingual Documents Synthesis for Visual Document Understanding**|Chuanghao Ding et.al.|[2408.14764](http://arxiv.org/abs/2408.14764)|null|
+|**2024-08-27**|**RSTeller: Scaling Up Visual Language Modeling in Remote Sensing with Rich Linguistic Semantics from Openly Available Data and Large Language Models**|Junyao Ge et.al.|[2408.14744](http://arxiv.org/abs/2408.14744)|**[link](https://github.com/slytheringe/rsteller)**|
 |**2024-08-26**|**ConceptMix: A Compositional Image Generation Benchmark with Controllable Difficulty**|Xindi Wu et.al.|[2408.14339](http://arxiv.org/abs/2408.14339)|null|
 |**2024-08-27**|**SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**|Trung Dao et.al.|[2408.14176](http://arxiv.org/abs/2408.14176)|null|
 |**2024-08-26**|**Video-CCAM: Enhancing Video-Language Understanding with Causal Cross-Attention Masks for Short and Long Videos**|Jiajun Fei et.al.|[2408.14023](http://arxiv.org/abs/2408.14023)|**[link](https://github.com/qq-mm/video-ccam)**|
