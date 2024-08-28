@@ -37,3 +37,5 @@ keywords:
                   "Line Segment Detection", "Local Feature Matching"]
     "NeRF":
         filters: ["NeRF"]
+    "VLM": 
+        filters: ["VLM", "Vision-Language Model", "Visual Language Model", "Video Language", "Video Text", "Image Language", "Language Image", "Image text"]
