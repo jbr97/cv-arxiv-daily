@@ -15,6 +15,7 @@
     <li><a href=#keypoint-detection>Keypoint Detection</a></li>
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
+    <li><a href=#vlm>VLM</a></li>
   </ol>
 </details>
 
@@ -3453,6 +3454,23 @@
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
+
+## VLM
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-08-26**|**ConceptMix: A Compositional Image Generation Benchmark with Controllable Difficulty**|Xindi Wu et.al.|[2408.14339](http://arxiv.org/abs/2408.14339)|null|
+|**2024-08-27**|**SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**|Trung Dao et.al.|[2408.14176](http://arxiv.org/abs/2408.14176)|null|
+|**2024-08-26**|**Video-CCAM: Enhancing Video-Language Understanding with Causal Cross-Attention Masks for Short and Long Videos**|Jiajun Fei et.al.|[2408.14023](http://arxiv.org/abs/2408.14023)|**[link](https://github.com/qq-mm/video-ccam)**|
+|**2024-08-26**|**Nemesis: Normalizing the Soft-prompt Vectors of Vision-Language Models**|Shuai Fu et.al.|[2408.13979](http://arxiv.org/abs/2408.13979)|**[link](https://github.com/shyfoo/nemesis)**|
+|**2024-08-25**|**Evaluating Attribute Comprehension in Large Vision-Language Models**|Haiwen Zhang et.al.|[2408.13898](http://arxiv.org/abs/2408.13898)|**[link](https://github.com/zhwwwww/attribute-comprehension-of-vlms)**|
+|**2024-08-25**|**Towards Completeness: A Generalizable Action Proposal Generator for Zero-Shot Temporal Action Localization**|Jia-Run Du et.al.|[2408.13777](http://arxiv.org/abs/2408.13777)|**[link](https://github.com/run542968/gap)**|
+|**2024-08-23**|**ParGo: Bridging Vision-Language with Partial and Global Views**|An-Lan Wang et.al.|[2408.12928](http://arxiv.org/abs/2408.12928)|null|
+|**2024-08-23**|**VALE: A Multimodal Visual and Language Explanation Framework for Image Classifiers using eXplainable AI and Language Models**|Purushothaman Natarajan et.al.|[2408.12808](http://arxiv.org/abs/2408.12808)|null|
+|**2024-08-22**|**Unlocking Intrinsic Fairness in Stable Diffusion**|Eunji Kim et.al.|[2408.12692](http://arxiv.org/abs/2408.12692)|null|
+|**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590](http://arxiv.org/abs/2408.12590)|null|
 
 <p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
 
