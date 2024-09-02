@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.01
+## Updated on 2024.09.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3447,7 +3447,7 @@ layout: default
 |**2024-08-29**|**CogVLM2: Visual Language Models for Image and Video Understanding**|Wenyi Hong et.al.|[2408.16500](http://arxiv.org/abs/2408.16500)|**[link](https://github.com/thudm/cogvlm2)**|
 |**2024-08-29**|**Text-Enhanced Zero-Shot Action Recognition: A training-free approach**|Massimo Bosetti et.al.|[2408.16412](http://arxiv.org/abs/2408.16412)|null|
 |**2024-08-29**|**Policy Adaptation via Language Optimization: Decomposing Tasks for Few-Shot Imitation**|Vivek Myers et.al.|[2408.16228](http://arxiv.org/abs/2408.16228)|null|
-|**2024-08-29**|**LLaVA-SG: Leveraging Scene Graphs as Visual Semantic Expression in Vision-Language Models**|Jingyi Wang et.al.|[2408.16224](http://arxiv.org/abs/2408.16224)|null|
+|**2024-08-30**|**LLaVA-SG: Leveraging Scene Graphs as Visual Semantic Expression in Vision-Language Models**|Jingyi Wang et.al.|[2408.16224](http://arxiv.org/abs/2408.16224)|null|
 |**2024-08-29**|**Training-free Video Temporal Grounding using Large-scale Pre-trained Models**|Minghang Zheng et.al.|[2408.16219](http://arxiv.org/abs/2408.16219)|null|
 |**2024-08-28**|**VLM4Bio: A Benchmark Dataset to Evaluate Pretrained Vision-Language Models for Trait Discovery from Biological Images**|M. Maruf et.al.|[2408.16176](http://arxiv.org/abs/2408.16176)|**[link](https://github.com/sammarfy/vlm4bio)**|
 |**2024-08-29**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996](http://arxiv.org/abs/2408.15996)|null|
