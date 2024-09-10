@@ -3440,6 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct**|Run Luo et.al.|[2409.05840](http://arxiv.org/abs/2409.05840)|null|
+|**2024-09-09**|**DexDiff: Towards Extrinsic Dexterity Manipulation of Ungraspable Objects in Unrestricted Environments**|Chengzhong Ma et.al.|[2409.05493](http://arxiv.org/abs/2409.05493)|null|
+|**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
+|**2024-09-09**|**A Survey of Multimodal Composite Editing and Retrieval**|Suyan Li et.al.|[2409.05405](http://arxiv.org/abs/2409.05405)|null|
+|**2024-09-09**|**Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling**|Georgios Pantazopoulos et.al.|[2409.05395](http://arxiv.org/abs/2409.05395)|null|
+|**2024-09-08**|**READoc: A Unified Benchmark for Realistic Document Structured Extraction**|Zichao Li et.al.|[2409.05137](http://arxiv.org/abs/2409.05137)|null|
+|**2024-09-07**|**Training-free ZS-CIR via Weighted Modality Fusion and Similarity**|Ren-Di Wu et.al.|[2409.04918](http://arxiv.org/abs/2409.04918)|null|
+|**2024-09-07**|**Context-Aware Replanning with Pre-explored Semantic Map for Object Navigation**|Hung-Ting Su et.al.|[2409.04837](http://arxiv.org/abs/2409.04837)|null|
+|**2024-09-07**|**Enhancing Outlier Knowledge for Few-Shot Out-of-Distribution Detection with Extensible Local Prompts**|Fanhu Zeng et.al.|[2409.04796](http://arxiv.org/abs/2409.04796)|null|
+|**2024-09-07**|**VidLPRO: A $\underline{Vid}$eo-$\underline{L}$anguage $\underline{P}$re-training Framework for $\underline{Ro}$ botic and Laparoscopic Surgery**|Mohammadmahdi Honarmand et.al.|[2409.04732](http://arxiv.org/abs/2409.04732)|null|
 |**2024-09-06**|**VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**|Yecheng Wu et.al.|[2409.04429](http://arxiv.org/abs/2409.04429)|null|
 |**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384](http://arxiv.org/abs/2409.04384)|null|
 |**2024-09-06**|**COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes**|Koen Kraaijveld et.al.|[2409.04053](http://arxiv.org/abs/2409.04053)|null|
