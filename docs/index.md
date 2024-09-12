@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3440,15 +3440,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-10**|**EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**|Danli Shi et.al.|[2409.06644](http://arxiv.org/abs/2409.06644)|null|
+|**2024-09-11**|**EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**|Danli Shi et.al.|[2409.06644](http://arxiv.org/abs/2409.06644)|null|
 |**2024-09-10**|**Mitigating Hallucination in Visual-Language Models via Re-Balancing Contrastive Decoding**|Xiaoyu Liang et.al.|[2409.06485](http://arxiv.org/abs/2409.06485)|null|
 |**2024-09-09**|**NeIn: Telling What You Don't Want**|Nhat-Tan Bui et.al.|[2409.06481](http://arxiv.org/abs/2409.06481)|null|
-|**2024-09-10**|**AMNS: Attention-Weighted Selective Mask and Noise Label Suppression for Text-to-Image Person Retrieval**|Runqing Zhang et.al.|[2409.06385](http://arxiv.org/abs/2409.06385)|null|
+|**2024-09-11**|**AMNS: Attention-Weighted Selective Mask and Noise Label Suppression for Text-to-Image Person Retrieval**|Runqing Zhang et.al.|[2409.06385](http://arxiv.org/abs/2409.06385)|null|
 |**2024-09-10**|**Revisiting Prompt Pretraining of Vision-Language Models**|Zhenyuan Chen et.al.|[2409.06166](http://arxiv.org/abs/2409.06166)|null|
 |**2024-09-09**|**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct**|Run Luo et.al.|[2409.05840](http://arxiv.org/abs/2409.05840)|null|
 |**2024-09-09**|**DexDiff: Towards Extrinsic Dexterity Manipulation of Ungraspable Objects in Unrestricted Environments**|Chengzhong Ma et.al.|[2409.05493](http://arxiv.org/abs/2409.05493)|null|
 |**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
-|**2024-09-09**|**A Survey of Multimodal Composite Editing and Retrieval**|Suyan Li et.al.|[2409.05405](http://arxiv.org/abs/2409.05405)|null|
+|**2024-09-11**|**A Survey of Multimodal Composite Editing and Retrieval**|Suyan Li et.al.|[2409.05405](http://arxiv.org/abs/2409.05405)|**[link](https://github.com/fuxianghuang1/multimodal-composite-editing-and-retrieval)**|
 |**2024-09-09**|**Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling**|Georgios Pantazopoulos et.al.|[2409.05395](http://arxiv.org/abs/2409.05395)|null|
 |**2024-09-08**|**READoc: A Unified Benchmark for Realistic Document Structured Extraction**|Zichao Li et.al.|[2409.05137](http://arxiv.org/abs/2409.05137)|null|
 |**2024-09-07**|**Training-free ZS-CIR via Weighted Modality Fusion and Similarity**|Ren-Di Wu et.al.|[2409.04918](http://arxiv.org/abs/2409.04918)|null|
