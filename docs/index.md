@@ -3440,6 +3440,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark**|Xuchen Li et.al.|[2409.08887](http://arxiv.org/abs/2409.08887)|null|
+|**2024-09-13**|**ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning**|Pei Deng et.al.|[2409.08582](http://arxiv.org/abs/2409.08582)|null|
+|**2024-09-13**|**Generalization Boosted Adapter for Open-Vocabulary Segmentation**|Wenhao Xu et.al.|[2409.08468](http://arxiv.org/abs/2409.08468)|null|
+|**2024-09-12**|**Rethinking Prompting Strategies for Multi-Label Recognition with Partial Annotations**|Samyak Rawlekar et.al.|[2409.08381](http://arxiv.org/abs/2409.08381)|null|
 |**2024-09-12**|**Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**|Hongyu Li et.al.|[2409.08251](http://arxiv.org/abs/2409.08251)|null|
 |**2024-09-12**|**ComAlign: Compositional Alignment in Vision-Language Models**|Ali Abdollah et.al.|[2409.08206](http://arxiv.org/abs/2409.08206)|null|
 |**2024-09-11**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267](http://arxiv.org/abs/2409.07267)|**[link](https://github.com/emzucas/minidrive)**|
