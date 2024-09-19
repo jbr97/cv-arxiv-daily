@@ -3461,6 +3461,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Mixture of Prompt Learning for Vision Language Models**|Yu Du et.al.|[2409.12011](http://arxiv.org/abs/2409.12011)|null|
+|**2024-09-18**|**LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Foundation Models**|Amaia Cardiel et.al.|[2409.11919](http://arxiv.org/abs/2409.11919)|null|
+|**2024-09-18**|**AlignBot: Aligning VLM-powered Customized Task Planning with User Reminders Through Fine-Tuning for Household Robots**|Zhaxizhuoma et.al.|[2409.11905](http://arxiv.org/abs/2409.11905)|null|
+|**2024-09-18**|**SpotLight: Robotic Scene Understanding through Interaction and Affordance Detection**|Tim Engelbracht et.al.|[2409.11870](http://arxiv.org/abs/2409.11870)|null|
+|**2024-09-17**|**Mamba Fusion: Learning Actions Through Questioning**|Zhikang Dong et.al.|[2409.11513](http://arxiv.org/abs/2409.11513)|**[link](https://github.com/dongzhikang/mambavl)**|
 |**2024-09-18**|**OneEncoder: A Lightweight Framework for Progressive Alignment of Modalities**|Bilal Faye et.al.|[2409.11059](http://arxiv.org/abs/2409.11059)|null|
 |**2024-09-17**|**CAST: Cross-modal Alignment Similarity Test for Vision Language Models**|Gautier Dagan et.al.|[2409.11007](http://arxiv.org/abs/2409.11007)|**[link](https://github.com/gautierdag/cast)**|
 |**2024-09-16**|**Benchmarking VLMs' Reasoning About Persuasive Atypical Images**|Sina Malakouti et.al.|[2409.10719](http://arxiv.org/abs/2409.10719)|null|
