@@ -3461,6 +3461,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations**|Nick Jiang et.al.|[2410.02762](http://arxiv.org/abs/2410.02762)|**[link](https://github.com/nickjiang2378/vl-interp)**|
+|**2024-10-03**|**Contrastive Localized Language-Image Pre-Training**|Hong-You Chen et.al.|[2410.02746](http://arxiv.org/abs/2410.02746)|null|
+|**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740](http://arxiv.org/abs/2410.02740)|null|
+|**2024-10-03**|**LoGra-Med: Long Context Multi-Graph Alignment for Medical Vision-Language Model**|Duy M. H. Nguyen et.al.|[2410.02615](http://arxiv.org/abs/2410.02615)|null|
+|**2024-10-03**|**NL-Eye: Abductive NLI for Images**|Mor Ventura et.al.|[2410.02613](http://arxiv.org/abs/2410.02613)|null|
+|**2024-10-03**|**Guiding Long-Horizon Task and Motion Planning with Vision Language Models**|Zhutian Yang et.al.|[2410.02193](http://arxiv.org/abs/2410.02193)|null|
+|**2024-10-03**|**BadCM: Invisible Backdoor Attack Against Cross-Modal Learning**|Zheng Zhang et.al.|[2410.02182](http://arxiv.org/abs/2410.02182)|**[link](https://github.com/xandery-geek/badcm)**|
+|**2024-10-02**|**Improving Autonomous AI Agents with Reflective Tree Search and Self-Learning**|Xiao Yu et.al.|[2410.02052](http://arxiv.org/abs/2410.02052)|null|
+|**2024-10-02**|**Emo3D: Metric and Benchmarking Dataset for 3D Facial Expression Generation from Emotion Description**|Mahshid Dehghani et.al.|[2410.02049](http://arxiv.org/abs/2410.02049)|null|
+|**2024-10-02**|**Enhancing Screen Time Identification in Children with a Multi-View Vision Language Model and Screen Time Tracker**|Xinlong Hou et.al.|[2410.01966](http://arxiv.org/abs/2410.01966)|null|
 |**2024-10-02**|**Why context matters in VQA and Reasoning: Semantic interventions for VLM input modalities**|Kenza Amara et.al.|[2410.01690](http://arxiv.org/abs/2410.01690)|null|
 |**2024-10-02**|**Saliency-Guided DETR for Moment Retrieval and Highlight Detection**|Aleksandr Gordeev et.al.|[2410.01615](http://arxiv.org/abs/2410.01615)|**[link](https://github.com/ai-forever/sg-detr)**|
 |**2024-10-02**|**Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension**|Zaiquan Yang et.al.|[2410.01544](http://arxiv.org/abs/2410.01544)|null|
