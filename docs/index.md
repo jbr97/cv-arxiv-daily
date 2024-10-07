@@ -658,7 +658,7 @@ layout: default
 |**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/abs/2404.07933)|null|
 |**2024-04-07**|**NeRF2Points: Large-Scale Point Cloud Generation From Street Views' Radiance Field Optimization**|Peng Tu et.al.|[2404.04875](http://arxiv.org/abs/2404.04875)|null|
 |**2024-04-04**|**GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis**|Emmanouil Nikolakakis et.al.|[2404.03126](http://arxiv.org/abs/2404.03126)|null|
-|**2024-03-29**|**InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds**|Zhiwen Fan et.al.|[2403.20309](http://arxiv.org/abs/2403.20309)|null|
+|**2024-03-29**|**InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds**|Zhiwen Fan et.al.|[2403.20309](http://arxiv.org/abs/2403.20309)|**[link](https://github.com/NVlabs/InstantSplat)**|
 |**2024-03-29**|**HO-Gaussian: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes**|Zhuopeng Li et.al.|[2403.20032](http://arxiv.org/abs/2403.20032)|null|
 |**2024-03-26**|**NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation**|Jiahao Chen et.al.|[2403.17537](http://arxiv.org/abs/2403.17537)|null|
 |**2024-03-25**|**INPC: Implicit Neural Point Clouds for Radiance Field Rendering**|Florian Hahlbohm et.al.|[2403.16862](http://arxiv.org/abs/2403.16862)|null|
@@ -1767,7 +1767,7 @@ layout: default
 |**2023-10-20**|**Feature Selection and Hyperparameter Fine-tuning in Artificial Neural Networks for Wood Quality Classification**|Mateus Roder et.al.|[2310.13490](http://arxiv.org/abs/2310.13490)|null|
 |**2023-10-12**|**UniPose: Detecting Any Keypoints**|Jie Yang et.al.|[2310.08530](http://arxiv.org/abs/2310.08530)|**[link](https://github.com/IDEA-Research/UniPose)**|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249](http://arxiv.org/abs/2310.06249)|**[link](https://github.com/kartikeya13/l-dyno)**|
-|**2023-10-10**|**Language-driven Open-Vocabulary Keypoint Detection for Animal Body and Face**|Hao Zhang et.al.|[2310.05056](http://arxiv.org/abs/2310.05056)|null|
+|**2023-10-10**|**Language-driven Open-Vocabulary Keypoint Detection for Animal Body and Face**|Hao Zhang et.al.|[2310.05056](http://arxiv.org/abs/2310.05056)|**[link](https://github.com/zhanghao5201/kdsm)**|
 |**2023-10-13**|**H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**|Yanjie Ze et.al.|[2310.01404](http://arxiv.org/abs/2310.01404)|**[link](https://github.com/YanjieZe/H-InDex)**|
 |**2023-10-04**|**Self-supervised Learning of Contextualized Local Visual Embeddings**|Thalles Santos Silva et.al.|[2310.00527](http://arxiv.org/abs/2310.00527)|**[link](https://github.com/sthalles/clove)**|
 |**2023-10-22**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268](http://arxiv.org/abs/2309.15268)|**[link](https://github.com/ut-amrl/obvi-slam)**|
@@ -2353,7 +2353,7 @@ layout: default
 |**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972](http://arxiv.org/abs/2406.06972)|null|
 |**2024-06-11**|**Neural Visibility Field for Uncertainty-Driven Active Mapping**|Shangjie Xue et.al.|[2406.06948](http://arxiv.org/abs/2406.06948)|null|
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527](http://arxiv.org/abs/2406.06527)|null|
-|**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526](http://arxiv.org/abs/2406.06526)|null|
+|**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526](http://arxiv.org/abs/2406.06526)|**[link](https://github.com/hzxie/GaussianCity)**|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521](http://arxiv.org/abs/2406.06521)|null|
 |**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216](http://arxiv.org/abs/2406.06216)|**[link](https://github.com/srameo/le3d)**|
 |**2024-06-10**|**ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models**|Meng-Li Shih et.al.|[2406.06133](http://arxiv.org/abs/2406.06133)|null|
@@ -2546,7 +2546,7 @@ layout: default
 |**2024-03-24**|**Semantic Is Enough: Only Semantic Information For NeRF Reconstruction**|Ruibo Wang et.al.|[2403.16043](http://arxiv.org/abs/2403.16043)|null|
 |**2024-03-24**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|unhong Zhao et.al.|[2403.15981](http://arxiv.org/abs/2403.15981)|null|
 |**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791](http://arxiv.org/abs/2403.15791)|**[link](https://github.com/muyishen2040/driveenvnerf)**|
-|**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705](http://arxiv.org/abs/2403.15705)|null|
+|**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705](http://arxiv.org/abs/2403.15705)|**[link](https://github.com/abhi1kumar/SUP-NeRF)**|
 |**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272](http://arxiv.org/abs/2403.15272)|null|
 |**2024-03-21**|**Hyperspectral Neural Radiance Fields**|Gerry Chen et.al.|[2403.14839](http://arxiv.org/abs/2403.14839)|null|
 |**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619](http://arxiv.org/abs/2403.14619)|null|
@@ -3470,22 +3470,22 @@ layout: default
 |**2024-09-29**|**PALM: Few-Shot Prompt Learning for Audio Language Models**|Asif Hanif et.al.|[2409.19806](http://arxiv.org/abs/2409.19806)|null|
 |**2024-10-02**|**T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition**|Chen Yeh et.al.|[2409.19734](http://arxiv.org/abs/2409.19734)|**[link](https://github.com/nctu-eva-lab/vhd11k)**|
 |**2024-09-29**|**FAST: A Dual-tier Few-Shot Learning Paradigm for Whole Slide Image Classification**|Kexue Fu et.al.|[2409.19720](http://arxiv.org/abs/2409.19720)|null|
-|**2024-09-27**|**UniEmoX: Cross-modal Semantic-Guided Large-Scale Pretraining for Universal Scene Emotion Perception**|Chuang Chen et.al.|[2409.18877](http://arxiv.org/abs/2409.18877)|null|
+|**2024-09-27**|**UniEmoX: Cross-modal Semantic-Guided Large-Scale Pretraining for Universal Scene Emotion Perception**|Chuang Chen et.al.|[2409.18877](http://arxiv.org/abs/2409.18877)|**[link](https://github.com/chincharles/u-emo)**|
 |**2024-09-27**|**Emu3: Next-Token Prediction is All You Need**|Xinlong Wang et.al.|[2409.18869](http://arxiv.org/abs/2409.18869)|null|
 |**2024-09-26**|**Advancing Object Detection in Transportation with Multimodal Large Language Models (MLLMs): A Comprehensive Review and Empirical Testing**|Huthaifa I. Ashqar et.al.|[2409.18286](http://arxiv.org/abs/2409.18286)|null|
 |**2024-09-26**|**Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography**|Yuexi Du et.al.|[2409.18119](http://arxiv.org/abs/2409.18119)|null|
 |**2024-09-26**|**E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding**|Ye Liu et.al.|[2409.18111](http://arxiv.org/abs/2409.18111)|**[link](https://github.com/PolyU-ChenLab/ETBench)**|
 |**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
 |**2024-09-26**|**Infering Alt-text For UI Icons With Large Language Models During App Development**|Sabrina Haque et.al.|[2409.18060](http://arxiv.org/abs/2409.18060)|null|
-|**2024-09-26**|**IFCap: Image-like Retrieval and Frequency-based Entity Filtering for Zero-shot Captioning**|Soeun Lee et.al.|[2409.18046](http://arxiv.org/abs/2409.18046)|null|
+|**2024-09-26**|**IFCap: Image-like Retrieval and Frequency-based Entity Filtering for Zero-shot Captioning**|Soeun Lee et.al.|[2409.18046](http://arxiv.org/abs/2409.18046)|**[link](https://github.com/boreng0817/ifcap)**|
 |**2024-09-26**|**EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions**|Kai Chen et.al.|[2409.18042](http://arxiv.org/abs/2409.18042)|null|
 |**2024-09-26**|**DARE: Diverse Visual Question Answering with Robustness Evaluation**|Hannah Sterz et.al.|[2409.18023](http://arxiv.org/abs/2409.18023)|null|
-|**2024-09-26**|**The Hard Positive Truth about Vision-Language Compositionality**|Amita Kamath et.al.|[2409.17958](http://arxiv.org/abs/2409.17958)|null|
+|**2024-09-26**|**The Hard Positive Truth about Vision-Language Compositionality**|Amita Kamath et.al.|[2409.17958](http://arxiv.org/abs/2409.17958)|**[link](https://github.com/amitakamath/hard_positives)**|
 |**2024-09-26**|**Continual learning with task specialist**|Indu Solomon et.al.|[2409.17806](http://arxiv.org/abs/2409.17806)|null|
-|**2024-09-26**|**Cascade Prompt Learning for Vision-Language Model Adaptation**|Ge Wu et.al.|[2409.17805](http://arxiv.org/abs/2409.17805)|null|
+|**2024-09-26**|**Cascade Prompt Learning for Vision-Language Model Adaptation**|Ge Wu et.al.|[2409.17805](http://arxiv.org/abs/2409.17805)|**[link](https://github.com/megvii-research/caspl)**|
 |**2024-09-25**|**Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models**|Matt Deitke et.al.|[2409.17146](http://arxiv.org/abs/2409.17146)|null|
 |**2024-09-25**|**Blox-Net: Generative Design-for-Robot-Assembly Using VLM Supervision, Physics Simulation, and a Robot with Reset**|Andrew Goldberg et.al.|[2409.17126](http://arxiv.org/abs/2409.17126)|null|
-|**2024-09-25**|**Can Vision Language Models Learn from Visual Demonstrations of Ambiguous Spatial Reasoning?**|Bowen Zhao et.al.|[2409.17080](http://arxiv.org/abs/2409.17080)|null|
+|**2024-09-25**|**Can Vision Language Models Learn from Visual Demonstrations of Ambiguous Spatial Reasoning?**|Bowen Zhao et.al.|[2409.17080](http://arxiv.org/abs/2409.17080)|**[link](https://github.com/groundlight/vlm-visual-demonstrations)**|
 |**2024-09-25**|**ControlCity: A Multimodal Diffusion Model Based Approach for Accurate Geospatial Data Generation and Urban Morphology Analysis**|Fangshuo Zhou et.al.|[2409.17049](http://arxiv.org/abs/2409.17049)|**[link](https://github.com/fangshuoz/controlcity)**|
 |**2024-09-25**|**GeoBiked: A Dataset with Geometric Features and Automated Labeling Techniques to Enable Deep Generative Models in Engineering Design**|Phillip Mueller et.al.|[2409.17045](http://arxiv.org/abs/2409.17045)|null|
 |**2024-09-25**|**Vision-Language Model Fine-Tuning via Simple Parameter-Efficient Modification**|Ming Li et.al.|[2409.16718](http://arxiv.org/abs/2409.16718)|**[link](https://github.com/minglllli/clipfit)**|
