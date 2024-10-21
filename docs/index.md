@@ -3440,6 +3440,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples**|Baiqi Li et.al.|[2410.14669](http://arxiv.org/abs/2410.14669)|null|
+|**2024-10-18**|**CLIP-VAD: Exploiting Vision-Language Models for Voice Activity Detection**|Andrea Appiani et.al.|[2410.14509](http://arxiv.org/abs/2410.14509)|null|
+|**2024-10-18**|**Addressing Blind Guessing: Calibration of Selection Bias in Multiple-Choice Question Answering by Video Language Models**|Olga Loginova et.al.|[2410.14248](http://arxiv.org/abs/2410.14248)|null|
+|**2024-10-18**|**Storyboard guided Alignment for Fine-grained Video Action Recognition**|Enqi Liu et.al.|[2410.14238](http://arxiv.org/abs/2410.14238)|null|
+|**2024-10-18**|**LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs**|Yujun Zhou et.al.|[2410.14182](http://arxiv.org/abs/2410.14182)|null|
+|**2024-10-18**|**RA-BLIP: Multimodal Adaptive Retrieval-Augmented Bootstrapping Language-Image Pre-training**|Muhe Ding et.al.|[2410.14154](http://arxiv.org/abs/2410.14154)|null|
+|**2024-10-17**|**Efficient Vision-Language Models by Summarizing Visual Tokens into Compact Registers**|Yuxin Wen et.al.|[2410.14072](http://arxiv.org/abs/2410.14072)|null|
+|**2024-10-17**|**Reproducibility study of "LICO: Explainable Models with Language-Image Consistency"**|Luan Fletcher et.al.|[2410.13989](http://arxiv.org/abs/2410.13989)|**[link](https://github.com/robertdvdk/lico-fact)**|
 |**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860](http://arxiv.org/abs/2410.13860)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
 |**2024-10-17**|**VL-GLUE: A Suite of Fundamental yet Challenging Visuo-Linguistic Reasoning Tasks**|Shailaja Keyur Sampat et.al.|[2410.13666](http://arxiv.org/abs/2410.13666)|**[link](https://github.com/shailaja183/vl-glue)**|
 |**2024-10-17**|**H2OVL-Mississippi Vision Language Models Technical Report**|Shaikat Galib et.al.|[2410.13611](http://arxiv.org/abs/2410.13611)|null|
