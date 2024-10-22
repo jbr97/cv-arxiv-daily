@@ -3440,6 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs**|Michael S. Ryoo et.al.|[2410.16267](http://arxiv.org/abs/2410.16267)|null|
+|**2024-10-21**|**Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping**|Ryan Li et.al.|[2410.16232](http://arxiv.org/abs/2410.16232)|null|
+|**2024-10-21**|**Improve Vision Language Model Chain-of-thought Reasoning**|Ruohong Zhang et.al.|[2410.16198](http://arxiv.org/abs/2410.16198)|null|
+|**2024-10-21**|**Beyond Filtering: Adaptive Image-Text Quality Enhancement for MLLM Pretraining**|Han Huang et.al.|[2410.16166](http://arxiv.org/abs/2410.16166)|**[link](https://github.com/hanhuang22/aitqe)**|
+|**2024-10-21**|**Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Composite Spatial Reasoning**|Yihong Tang et.al.|[2410.16162](http://arxiv.org/abs/2410.16162)|null|
+|**2024-10-21**|**Integrated Image-Text Based on Semi-supervised Learning for Small Sample Instance Segmentation**|Ruting Chi et.al.|[2410.16063](http://arxiv.org/abs/2410.16063)|null|
+|**2024-10-21**|**CamI2V: Camera-Controlled Image-to-Video Diffusion Model**|Guangcong Zheng et.al.|[2410.15957](http://arxiv.org/abs/2410.15957)|**[link](https://github.com/ZGCTroy/CamI2V)**|
+|**2024-10-21**|**MI-VisionShot: Few-shot adaptation of vision-language models for slide-level classification of histopathological images**|Pablo Meseguer et.al.|[2410.15881](http://arxiv.org/abs/2410.15881)|null|
+|**2024-10-21**|**Task-oriented Robotic Manipulation with Vision Language Models**|Nurhan Bulus Guran et.al.|[2410.15863](http://arxiv.org/abs/2410.15863)|null|
+|**2024-10-21**|**AutoTrain: No-code training for state-of-the-art models**|Abhishek Thakur et.al.|[2410.15735](http://arxiv.org/abs/2410.15735)|**[link](https://github.com/huggingface/autotrain-advanced)**|
 |**2024-10-18**|**NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples**|Baiqi Li et.al.|[2410.14669](http://arxiv.org/abs/2410.14669)|null|
 |**2024-10-18**|**CLIP-VAD: Exploiting Vision-Language Models for Voice Activity Detection**|Andrea Appiani et.al.|[2410.14509](http://arxiv.org/abs/2410.14509)|null|
 |**2024-10-18**|**Addressing Blind Guessing: Calibration of Selection Bias in Multiple-Choice Question Answering by Video Language Models**|Olga Loginova et.al.|[2410.14248](http://arxiv.org/abs/2410.14248)|null|
