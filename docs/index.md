@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3446,7 +3446,7 @@ layout: default
 |**2024-10-21**|**Beyond Filtering: Adaptive Image-Text Quality Enhancement for MLLM Pretraining**|Han Huang et.al.|[2410.16166](http://arxiv.org/abs/2410.16166)|**[link](https://github.com/hanhuang22/aitqe)**|
 |**2024-10-21**|**Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Composite Spatial Reasoning**|Yihong Tang et.al.|[2410.16162](http://arxiv.org/abs/2410.16162)|null|
 |**2024-10-21**|**Integrated Image-Text Based on Semi-supervised Learning for Small Sample Instance Segmentation**|Ruting Chi et.al.|[2410.16063](http://arxiv.org/abs/2410.16063)|null|
-|**2024-10-21**|**CamI2V: Camera-Controlled Image-to-Video Diffusion Model**|Guangcong Zheng et.al.|[2410.15957](http://arxiv.org/abs/2410.15957)|**[link](https://github.com/ZGCTroy/CamI2V)**|
+|**2024-10-22**|**CamI2V: Camera-Controlled Image-to-Video Diffusion Model**|Guangcong Zheng et.al.|[2410.15957](http://arxiv.org/abs/2410.15957)|**[link](https://github.com/ZGCTroy/CamI2V)**|
 |**2024-10-21**|**MI-VisionShot: Few-shot adaptation of vision-language models for slide-level classification of histopathological images**|Pablo Meseguer et.al.|[2410.15881](http://arxiv.org/abs/2410.15881)|null|
 |**2024-10-21**|**Task-oriented Robotic Manipulation with Vision Language Models**|Nurhan Bulus Guran et.al.|[2410.15863](http://arxiv.org/abs/2410.15863)|null|
 |**2024-10-21**|**AutoTrain: No-code training for state-of-the-art models**|Abhishek Thakur et.al.|[2410.15735](http://arxiv.org/abs/2410.15735)|**[link](https://github.com/huggingface/autotrain-advanced)**|
