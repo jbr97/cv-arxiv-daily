@@ -3440,6 +3440,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models**|Linger Deng et.al.|[2410.17885](http://arxiv.org/abs/2410.17885)|**[link](https://github.com/dle666/r-cot)**|
+|**2024-10-23**|**Lightweight Neural App Control**|Filippos Christianos et.al.|[2410.17883](http://arxiv.org/abs/2410.17883)|null|
+|**2024-10-23**|**ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**|Shaofei Cai et.al.|[2410.17856](http://arxiv.org/abs/2410.17856)|null|
+|**2024-10-23**|**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**|Marco Mistretta et.al.|[2410.17827](http://arxiv.org/abs/2410.17827)|null|
+|**2024-10-23**|**EntityCLIP: Entity-Centric Image-Text Matching via Multimodal Attentive Contrastive Learning**|Yaxiong Wang et.al.|[2410.17810](http://arxiv.org/abs/2410.17810)|null|
+|**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|Kaiwen Zhu et.al.|[2410.17809](http://arxiv.org/abs/2410.17809)|null|
+|**2024-10-22**|**LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding**|Xiaoqian Shen et.al.|[2410.17434](http://arxiv.org/abs/2410.17434)|null|
+|**2024-10-22**|**AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents**|Chejian Xu et.al.|[2410.17401](http://arxiv.org/abs/2410.17401)|null|
+|**2024-10-22**|**Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference Under Ambiguities**|Zheyuan Zhang et.al.|[2410.17385](http://arxiv.org/abs/2410.17385)|null|
 |**2024-10-22**|**Improving Pinterest Search Relevance Using Large Language Models**|Han Wang et.al.|[2410.17152](http://arxiv.org/abs/2410.17152)|null|
 |**2024-10-22**|**Are Visual-Language Models Effective in Action Recognition? A Comparative Study**|Mahmoud Ali et.al.|[2410.17149](http://arxiv.org/abs/2410.17149)|null|
 |**2024-10-22**|**Order Matters: Exploring Order Sensitivity in Multimodal Large Language Models**|Zhijie Tan et.al.|[2410.16983](http://arxiv.org/abs/2410.16983)|null|
