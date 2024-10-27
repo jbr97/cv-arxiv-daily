@@ -3441,7 +3441,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-24**|**A Survey of Multimodal Sarcasm Detection**|Shafkat Farabi et.al.|[2410.18882](http://arxiv.org/abs/2410.18882)|null|
-|**2024-10-24**|**Probabilistic Language-Image Pre-Training**|Sanghyuk Chun et.al.|[2410.18857](http://arxiv.org/abs/2410.18857)|null|
+|**2024-10-24**|**Probabilistic Language-Image Pre-Training**|Sanghyuk Chun et.al.|[2410.18857](http://arxiv.org/abs/2410.18857)|**[link](https://github.com/naver-ai/prolip)**|
 |**2024-10-24**|**ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval**|Zijia Zhao et.al.|[2410.18715](http://arxiv.org/abs/2410.18715)|**[link](https://github.com/joez17/chatsearch)**|
 |**2024-10-24**|**DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation**|Yuang Ai et.al.|[2410.18666](http://arxiv.org/abs/2410.18666)|**[link](https://github.com/shallowdream204/dreamclear)**|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
