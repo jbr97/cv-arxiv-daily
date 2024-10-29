@@ -3440,6 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce**|Zhantao Yang et.al.|[2410.21237](http://arxiv.org/abs/2410.21237)|null|
+|**2024-10-28**|**Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines**|Zhixin Zhang et.al.|[2410.21220](http://arxiv.org/abs/2410.21220)|**[link](https://github.com/cnzzx/vsa)**|
+|**2024-10-28**|**BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks**|Yunhan Zhao et.al.|[2410.20971](http://arxiv.org/abs/2410.20971)|null|
+|**2024-10-28**|**VLMimic: Vision Language Models are Visual Imitation Learner for Fine-grained Actions**|Guanyan Chen et.al.|[2410.20927](http://arxiv.org/abs/2410.20927)|null|
+|**2024-10-28**|**Face-MLLM: A Large Face Perception Model**|Haomiao Sun et.al.|[2410.20717](http://arxiv.org/abs/2410.20717)|null|
+|**2024-10-28**|**Guide-LLM: An Embodied LLM Agent and Text-Based Topological Map for Robotic Guidance of People with Visual Impairments**|Sangmim Song et.al.|[2410.20666](http://arxiv.org/abs/2410.20666)|null|
+|**2024-10-27**|**MatViX: Multimodal Information Extraction from Visually Rich Articles**|Ghazal Khalighinejad et.al.|[2410.20494](http://arxiv.org/abs/2410.20494)|null|
+|**2024-10-26**|**EfficientEQA: An Efficient Approach for Open Vocabulary Embodied Question Answering**|Kai Cheng et.al.|[2410.20263](http://arxiv.org/abs/2410.20263)|null|
+|**2024-10-26**|**GiVE: Guiding Visual Encoder to Perceive Overlooked Information**|Junjie Li et.al.|[2410.20109](http://arxiv.org/abs/2410.20109)|null|
+|**2024-10-26**|**Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors**|Wenqiang Chen et.al.|[2410.20034](http://arxiv.org/abs/2410.20034)|null|
 |**2024-10-25**|**GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing**|Hosam Elgendy et.al.|[2410.19552](http://arxiv.org/abs/2410.19552)|null|
 |**2024-10-25**|**Bongard in Wonderland: Visual Puzzles that Still Make AI Go Mad?**|Antonia Wüst et.al.|[2410.19546](http://arxiv.org/abs/2410.19546)|**[link](https://github.com/ml-research/bongard-in-wonderland)**|
 |**2024-10-25**|**Learning ID-free Item Representation with Token Crossing for Multimodal Recommendation**|Kangning Zhang et.al.|[2410.19276](http://arxiv.org/abs/2410.19276)|null|
