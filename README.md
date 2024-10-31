@@ -3461,6 +3461,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**Aligning Audio-Visual Joint Representations with an Agentic Workflow**|Shentong Mo et.al.|[2410.23230](http://arxiv.org/abs/2410.23230)|null|
+|**2024-10-30**|**OS-ATLAS: A Foundation Action Model for Generalist GUI Agents**|Zhiyong Wu et.al.|[2410.23218](http://arxiv.org/abs/2410.23218)|null|
+|**2024-10-30**|**Public Domain 12M: A Highly Aesthetic Image-Text Dataset with Novel Governance Mechanisms**|Jordan Meyer et.al.|[2410.23144](http://arxiv.org/abs/2410.23144)|null|
+|**2024-10-30**|**Effective and Efficient Adversarial Detection for Vision-Language Models via A Single Vector**|Youcheng Huang et.al.|[2410.22888](http://arxiv.org/abs/2410.22888)|**[link](https://github.com/mob-scu/radar-nearside)**|
+|**2024-10-30**|**Constructing Multimodal Datasets from Scratch for Rapid Development of a Japanese Visual Language Model**|Keito Sasagawa et.al.|[2410.22736](http://arxiv.org/abs/2410.22736)|null|
+|**2024-10-29**|**Unsupervised Multimodal Fusion of In-process Sensor Data for Advanced Manufacturing Process Monitoring**|Matthew McKinney et.al.|[2410.22558](http://arxiv.org/abs/2410.22558)|null|
+|**2024-10-29**|**Image2Struct: Benchmarking Structure Extraction for Vision-Language Models**|Josselin Somerville Roberts et.al.|[2410.22456](http://arxiv.org/abs/2410.22456)|null|
 |**2024-10-29**|**Task Vectors are Cross-Modal**|Grace Luo et.al.|[2410.22330](http://arxiv.org/abs/2410.22330)|null|
 |**2024-10-29**|**Natural Language Inference Improves Compositionality in Vision-Language Models**|Paola Cascante-Bonilla et.al.|[2410.22315](http://arxiv.org/abs/2410.22315)|null|
 |**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|**[link](https://github.com/hustvl/senna)**|
