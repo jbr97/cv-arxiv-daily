@@ -3461,6 +3461,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Attacking Vision-Language Computer Agents via Pop-ups**|Yanzhe Zhang et.al.|[2411.02391](http://arxiv.org/abs/2411.02391)|null|
+|**2024-11-04**|**One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering**|Deepayan Das et.al.|[2411.02210](http://arxiv.org/abs/2411.02210)|null|
+|**2024-11-04**|**GraphVL: Graph-Enhanced Semantic Modeling via Vision-Language Models for Generalized Class Discovery**|Bhupendra Solanki et.al.|[2411.02074](http://arxiv.org/abs/2411.02074)|null|
+|**2024-11-04**|**TableGPT2: A Large Multimodal Model with Tabular Data Integration**|Aofeng Su et.al.|[2411.02059](http://arxiv.org/abs/2411.02059)|null|
+|**2024-11-03**|**RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering**|Hui Lin et.al.|[2411.01595](http://arxiv.org/abs/2411.01595)|null|
+|**2024-11-03**|**Addressing Failures in Robotics using Vision-Based Language Models (VLMs) and Behavior Trees (BT)**|Faseeh Ahmad et.al.|[2411.01568](http://arxiv.org/abs/2411.01568)|null|
+|**2024-11-03**|**A Visual Question Answering Method for SAR Ship: Breaking the Requirement for Multimodal Dataset Construction and Model Fine-Tuning**|Fei Wang et.al.|[2411.01445](http://arxiv.org/abs/2411.01445)|null|
+|**2024-11-01**|**Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities**|Adriel Saporta et.al.|[2411.01053](http://arxiv.org/abs/2411.01053)|**[link](https://github.com/rajesh-lab/symile)**|
+|**2024-11-01**|**Identifying Implicit Social Biases in Vision-Language Models**|Kimia Hamidieh et.al.|[2411.00997](http://arxiv.org/abs/2411.00997)|null|
+|**2024-11-01**|**Retrieval-enriched zero-shot image classification in low-resource domains**|Nicola Dall'Asen et.al.|[2411.00988](http://arxiv.org/abs/2411.00988)|null|
 |**2024-10-31**|**DiffPano: Scalable and Consistent Text to Panorama Generation with Spherical Epipolar-Aware Diffusion**|Weicai Ye et.al.|[2410.24203](http://arxiv.org/abs/2410.24203)|**[link](https://github.com/zju3dv/diffpano)**|
 |**2024-10-31**|**$π_0$ : A Vision-Language-Action Flow Model for General Robot Control**|Kevin Black et.al.|[2410.24164](http://arxiv.org/abs/2410.24164)|null|
 |**2024-10-31**|**Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age**|Nouar AlDahoul et.al.|[2410.24148](http://arxiv.org/abs/2410.24148)|null|
