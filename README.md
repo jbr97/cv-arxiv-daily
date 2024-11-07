@@ -3461,6 +3461,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|null|
+|**2024-11-06**|**RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models**|Maya Varma et.al.|[2411.04097](http://arxiv.org/abs/2411.04097)|**[link](https://github.com/stanford-aimi/ravl)**|
+|**2024-11-06**|**Pseudo-labeling with Keyword Refining for Few-Supervised Video Captioning**|Ping Li et.al.|[2411.04059](http://arxiv.org/abs/2411.04059)|**[link](https://github.com/mlvccn/pkg_vidcap)**|
+|**2024-11-06**|**Select2Plan: Training-Free ICL-Based Planning through VQA and Memory Retrieval**|Davide Buoso et.al.|[2411.04006](http://arxiv.org/abs/2411.04006)|null|
+|**2024-11-06**|**Multi3Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision-Language Models**|Minh Duc Bui et.al.|[2411.03888](http://arxiv.org/abs/2411.03888)|**[link](https://github.com/minhducbui/multi3hate)**|
+|**2024-11-06**|**DesignMinds: Enhancing Video-Based Design Ideation with Vision-Language Model and Context-Injected Large Language Model**|Tianhao He et.al.|[2411.03827](http://arxiv.org/abs/2411.03827)|null|
+|**2024-11-06**|**Fine-Tuning Vision-Language Model for Automated Engineering Drawing Information Extraction**|Muhammad Tayyab Khan et.al.|[2411.03707](http://arxiv.org/abs/2411.03707)|null|
+|**2024-11-05**|**Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset**|Yingzi Ma et.al.|[2411.03554](http://arxiv.org/abs/2411.03554)|**[link](https://github.com/safolab-wisc/fiubench)**|
+|**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|null|
+|**2024-11-05**|**Personalized Video Summarization by Multimodal Video Understanding**|Brian Chen et.al.|[2411.03531](http://arxiv.org/abs/2411.03531)|null|
 |**2024-11-05**|**Classification Done Right for Vision-Language Pre-Training**|Huang Zilong et.al.|[2411.03313](http://arxiv.org/abs/2411.03313)|**[link](https://github.com/x-cls/superclass)**|
 |**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
 |**2024-11-05**|**HumanVLM: Foundation for Human-Scene Vision-Language Model**|Dawei Dai et.al.|[2411.03034](http://arxiv.org/abs/2411.03034)|null|
