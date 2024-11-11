@@ -3440,6 +3440,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**End-to-End Navigation with Vision Language Models: Transforming Spatial Reasoning into Question-Answering**|Dylan Goetting et.al.|[2411.05755](http://arxiv.org/abs/2411.05755)|null|
+|**2024-11-08**|**A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis**|Cristiano Patrício et.al.|[2411.05609](http://arxiv.org/abs/2411.05609)|null|
+|**2024-11-08**|**Training objective drives the consistency of representational similarity across datasets**|Laure Ciernik et.al.|[2411.05561](http://arxiv.org/abs/2411.05561)|**[link](https://github.com/lciernik/similarity_consistency)**|
+|**2024-11-08**|**Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation**|Peidong Liu et.al.|[2411.05472](http://arxiv.org/abs/2411.05472)|**[link](https://github.com/hughnew/gapdiff)**|
+|**2024-11-08**|**Enhancing Visual Classification using Comparative Descriptors**|Hankyeol Lee et.al.|[2411.05357](http://arxiv.org/abs/2411.05357)|null|
+|**2024-11-07**|**RT-Grasp: Reasoning Tuning Robotic Grasping via Multi-modal Large Language Model**|Jinxuan Xu et.al.|[2411.05212](http://arxiv.org/abs/2411.05212)|null|
+|**2024-11-07**|**On Erroneous Agreements of CLIP Image Embeddings**|Siting Li et.al.|[2411.05195](http://arxiv.org/abs/2411.05195)|null|
+|**2024-11-07**|**Q-SFT: Q-Learning for Language Models via Supervised Fine-Tuning**|Joey Hong et.al.|[2411.05193](http://arxiv.org/abs/2411.05193)|null|
 |**2024-11-07**|**HourVideo: 1-Hour Video-Language Understanding**|Keshigeyan Chandrasegaran et.al.|[2411.04998](http://arxiv.org/abs/2411.04998)|null|
 |**2024-11-07**|**A Reinforcement Learning-Based Automatic Video Editing Method Using Pre-trained Vision-Language Model**|Panwen Hu et.al.|[2411.04942](http://arxiv.org/abs/2411.04942)|null|
 |**2024-11-07**|**Vision Language Models are In-Context Value Learners**|Yecheng Jason Ma et.al.|[2411.04549](http://arxiv.org/abs/2411.04549)|null|
