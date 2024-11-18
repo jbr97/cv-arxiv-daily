@@ -3440,6 +3440,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**VeriGraph: Scene Graphs for Execution Verifiable Robot Planning**|Daniel Ekpo et.al.|[2411.10446](http://arxiv.org/abs/2411.10446)|null|
+|**2024-11-15**|**LLaVA-o1: Let Vision Language Models Reason Step-by-Step**|Guowei Xu et.al.|[2411.10440](http://arxiv.org/abs/2411.10440)|null|
+|**2024-11-15**|**SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning**|Zewen Chen et.al.|[2411.10161](http://arxiv.org/abs/2411.10161)|**[link](https://github.com/chencn2020/seagull)**|
+|**2024-11-15**|**CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2411.10086](http://arxiv.org/abs/2411.10086)|null|
+|**2024-11-15**|**Federated Domain Generalization via Prompt Learning and Aggregation**|Shuai Gong et.al.|[2411.10063](http://arxiv.org/abs/2411.10063)|**[link](https://github.com/GongShuai8210/PLAN)**|
+|**2024-11-15**|**Model Inversion Attacks: A Survey of Approaches and Countermeasures**|Zhanke Zhou et.al.|[2411.10023](http://arxiv.org/abs/2411.10023)|null|
+|**2024-11-14**|**A Self-Supervised Model for Multi-modal Stroke Risk Prediction**|Camille Delgrange et.al.|[2411.09822](http://arxiv.org/abs/2411.09822)|null|
 |**2024-11-14**|**Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation**|Yuheng Shi et.al.|[2411.09219](http://arxiv.org/abs/2411.09219)|**[link](https://github.com/YuHengsss/Trident)**|
 |**2024-11-14**|**SCAN: Bootstrapping Contrastive Pre-training for Data Efficiency**|Yangyang Guo et.al.|[2411.09126](http://arxiv.org/abs/2411.09126)|**[link](https://github.com/guoyang9/scan)**|
 |**2024-11-14**|**VCBench: A Controllable Benchmark for Symbolic and Abstract Challenges in Video Cognition**|Chenglin Li et.al.|[2411.09105](http://arxiv.org/abs/2411.09105)|null|
