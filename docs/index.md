@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3441,7 +3441,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-19**|**AdaCM $^2$ : On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction**|Yuanbin Man et.al.|[2411.12593](http://arxiv.org/abs/2411.12593)|null|
-|**2024-11-19**|**CLIP Unreasonable Potential in Single-Shot Face Recognition**|Nhan T. Luu et.al.|[2411.12319](http://arxiv.org/abs/2411.12319)|null|
+|**2024-11-20**|**CLIP Unreasonable Potential in Single-Shot Face Recognition**|Nhan T. Luu et.al.|[2411.12319](http://arxiv.org/abs/2411.12319)|null|
 |**2024-11-19**|**A Survey of Medical Vision-and-Language Applications and Their Techniques**|Qi Chen et.al.|[2411.12195](http://arxiv.org/abs/2411.12195)|null|
 |**2024-11-19**|**Just KIDDIN: Knowledge Infusion and Distillation for Detection of INdecent Memes**|Rahul Garg et.al.|[2411.12174](http://arxiv.org/abs/2411.12174)|null|
 |**2024-11-18**|**Vision Language Models Are Few-Shot Audio Spectrogram Classifiers**|Satvik Dixit et.al.|[2411.12058](http://arxiv.org/abs/2411.12058)|null|
