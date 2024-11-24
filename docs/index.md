@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3446,7 +3446,7 @@ layout: default
 |**2024-11-20**|**Extending Video Masked Autoencoders to 128 frames**|Nitesh Bharadwaj Gundavarapu et.al.|[2411.13683](http://arxiv.org/abs/2411.13683)|null|
 |**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
 |**2024-11-20**|**Teaching VLMs to Localize Specific Objects from In-context Examples**|Sivan Doveh et.al.|[2411.13317](http://arxiv.org/abs/2411.13317)|**[link](https://github.com/sivandoveh/iploc)**|
-|**2024-11-21**|**ViSTa Dataset: Do vision-language models understand sequential tasks?**|Evžen Wybitul et.al.|[2411.13211](http://arxiv.org/abs/2411.13211)|null|
+|**2024-11-21**|**ViSTa Dataset: Do vision-language models understand sequential tasks?**|Evžen Wybitul et.al.|[2411.13211](http://arxiv.org/abs/2411.13211)|**[link](https://github.com/eugleo/vista-dataset)**|
 |**2024-11-20**|**TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models**|Xin Wang et.al.|[2411.13136](http://arxiv.org/abs/2411.13136)|null|
 |**2024-11-20**|**Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**|Yongdong Luo et.al.|[2411.13093](http://arxiv.org/abs/2411.13093)|**[link](https://github.com/leon1207/video-rag-master)**|
 |**2024-11-20**|**LMM-driven Semantic Image-Text Coding for Ultra Low-bitrate Learned Image Compression**|Shimon Murai et.al.|[2411.13033](http://arxiv.org/abs/2411.13033)|**[link](https://github.com/tokkiwa/imagetextcoding)**|
