@@ -3440,6 +3440,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Context-Aware Multimodal Pretraining**|Karsten Roth et.al.|[2411.15099](http://arxiv.org/abs/2411.15099)|null|
+|**2024-11-22**|**Geminio: Language-Guided Gradient Inversion Attacks in Federated Learning**|Junjie Shan et.al.|[2411.14937](http://arxiv.org/abs/2411.14937)|**[link](https://github.com/HKU-TASR/Geminio)**|
+|**2024-11-22**|**ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos**|Tanveer Hannan et.al.|[2411.14901](http://arxiv.org/abs/2411.14901)|null|
+|**2024-11-22**|**Continual SFT Matches Multimodal RLHF with Negative Supervision**|Ke Zhu et.al.|[2411.14797](http://arxiv.org/abs/2411.14797)|null|
+|**2024-11-22**|**Simplifying CLIP: Unleashing the Power of Large-Scale Models on Consumer-level Computers**|Hongbo Liu et.al.|[2411.14789](http://arxiv.org/abs/2411.14789)|null|
+|**2024-11-22**|**Effective SAM Combination for Open-Vocabulary Semantic Segmentation**|Minhyeok Lee et.al.|[2411.14723](http://arxiv.org/abs/2411.14723)|null|
+|**2024-11-21**|**GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI**|Tianbin Li et.al.|[2411.14522](http://arxiv.org/abs/2411.14522)|**[link](https://github.com/uni-medical/gmai-vl)**|
+|**2024-11-21**|**The Double-Ellipsoid Geometry of CLIP**|Meir Yossef Levi et.al.|[2411.14517](http://arxiv.org/abs/2411.14517)|null|
 |**2024-11-21**|**Is this Generated Person Existed in Real-world? Fine-grained Detecting and Calibrating Abnormal Human-body**|Zeqing Wang et.al.|[2411.14205](http://arxiv.org/abs/2411.14205)|null|
 |**2024-11-21**|**Visual Contexts Clarify Ambiguous Expressions: A Benchmark Dataset**|Heejeong Nam et.al.|[2411.14137](http://arxiv.org/abs/2411.14137)|null|
 |**2024-11-21**|**CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation**|Lin Sun et.al.|[2411.13836](http://arxiv.org/abs/2411.13836)|**[link](https://github.com/linsun449/cliper.code)**|
