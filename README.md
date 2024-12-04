@@ -3461,6 +3461,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**CEGI: Measuring the trade-off between efficiency and carbon emissions for SLMs and VLMs**|Abhas Kumar et.al.|[2412.02602](http://arxiv.org/abs/2412.02602)|null|
+|**2024-12-03**|**OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation**|Junyuan Zhang et.al.|[2412.02592](http://arxiv.org/abs/2412.02592)|**[link](https://github.com/opendatalab/OHR-Bench)**|
+|**2024-12-03**|**Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey**|Chenyang Liu et.al.|[2412.02573](http://arxiv.org/abs/2412.02573)|**[link](https://github.com/chen-yang-liu/awesome-rs-temporal-vlm)**|
+|**2024-12-03**|**Multimodal Remote Sensing Scene Classification Using VLMs and Dual-Cross Attention Networks**|Jinjin Cai et.al.|[2412.02531](http://arxiv.org/abs/2412.02531)|null|
+|**2024-12-03**|**OODFace: Benchmarking Robustness of Face Recognition under Common Corruptions and Appearance Variations**|Caixin Kang et.al.|[2412.02479](http://arxiv.org/abs/2412.02479)|null|
+|**2024-12-03**|**BYE: Build Your Encoder with One Sequence of Exploration Data for Long-Term Dynamic Scene Understanding**|Chenguang Huang et.al.|[2412.02449](http://arxiv.org/abs/2412.02449)|null|
+|**2024-12-03**|**Composing Open-domain Vision with RAG for Ocean Monitoring and Conservation**|Sepand Dyanatkar et.al.|[2412.02262](http://arxiv.org/abs/2412.02262)|null|
+|**2024-12-03**|**LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models**|Fan-Yun Sun et.al.|[2412.02193](http://arxiv.org/abs/2412.02193)|null|
+|**2024-12-03**|**VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding**|Kangsan Kim et.al.|[2412.02186](http://arxiv.org/abs/2412.02186)|**[link](https://github.com/kangsankim07/videoicl)**|
+|**2024-12-03**|**Explainable and Interpretable Multimodal Large Language Models: A Comprehensive Survey**|Yunkai Dang et.al.|[2412.02104](http://arxiv.org/abs/2412.02104)|null|
 |**2024-11-29**|**VLSBench: Unveiling Visual Leakage in Multimodal Safety**|Xuhao Hu et.al.|[2411.19939](http://arxiv.org/abs/2411.19939)|null|
 |**2024-11-29**|**CAREL: Instruction-guided reinforcement learning with cross-modal auxiliary objectives**|Armin Saghafian et.al.|[2411.19787](http://arxiv.org/abs/2411.19787)|**[link](https://github.com/ArminS03/CAREL)**|
 |**2024-11-29**|**SURE-VQA: Systematic Understanding of Robustness Evaluation in Medical VQA Tasks**|Kim-Celine Kahl et.al.|[2411.19688](http://arxiv.org/abs/2411.19688)|**[link](https://github.com/iml-dkfz/sure-vqa)**|
