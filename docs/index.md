@@ -3440,6 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Visual Lexicon: Rich Image Features in Language Space**|XuDong Wang et.al.|[2412.06774](http://arxiv.org/abs/2412.06774)|null|
+|**2024-12-09**|**Ranking-aware adapter for text-driven image ordering with CLIP**|Wei-Hsiang Yu et.al.|[2412.06760](http://arxiv.org/abs/2412.06760)|**[link](https://github.com/uynaes/rankingawareclip)**|
+|**2024-12-09**|**VP-MEL: Visual Prompts Guided Multimodal Entity Linking**|Hongze Mi et.al.|[2412.06720](http://arxiv.org/abs/2412.06720)|null|
+|**2024-12-09**|**ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance**|Chunwei Wang et.al.|[2412.06673](http://arxiv.org/abs/2412.06673)|null|
+|**2024-12-09**|**The Narrow Gate: Localized Image-Text Communication in Vision-Language Models**|Alessandro Serra et.al.|[2412.06646](http://arxiv.org/abs/2412.06646)|null|
+|**2024-12-09**|**See Further When Clear: Curriculum Consistency Model**|Yunpeng Liu et.al.|[2412.06295](http://arxiv.org/abs/2412.06295)|null|
+|**2024-12-09**|**DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction**|Yunheng Li et.al.|[2412.06244](http://arxiv.org/abs/2412.06244)|null|
+|**2024-12-09**|**Evaluating Model Perception of Color Illusions in Photorealistic Scenes**|Lingjun Mao et.al.|[2412.06184](http://arxiv.org/abs/2412.06184)|null|
+|**2024-12-09**|**Holmes-VAU: Towards Long-term Video Anomaly Understanding at Any Granularity**|Huaxin Zhang et.al.|[2412.06171](http://arxiv.org/abs/2412.06171)|**[link](https://github.com/pipixin321/holmesvau)**|
+|**2024-12-08**|**Post-hoc Probabilistic Vision-Language Models**|Anton Baumann et.al.|[2412.06014](http://arxiv.org/abs/2412.06014)|null|
 |**2024-12-06**|**Multimodal Fact-Checking with Vision Language Models: A Probing Classifier based Solution with Embedding Strategies**|Recep Firat Cekinel et.al.|[2412.05155](http://arxiv.org/abs/2412.05155)|null|
 |**2024-12-06**|**Findings of the Second BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora**|Michael Y. Hu et.al.|[2412.05149](http://arxiv.org/abs/2412.05149)|null|
 |**2024-12-06**|**Gla-AI4BioMed at RRG24: Visual Instruction-tuned Adaptation for Radiology Report Generation**|Xi Zhang et.al.|[2412.04954](http://arxiv.org/abs/2412.04954)|null|
