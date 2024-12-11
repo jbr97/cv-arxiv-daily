@@ -3440,6 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**STIV: Scalable Text and Image Conditioned Video Generation**|Zongyu Lin et.al.|[2412.07730](http://arxiv.org/abs/2412.07730)|null|
+|**2024-12-10**|**GEXIA: Granularity Expansion and Iterative Approximation for Scalable Multi-grained Video-language Learning**|Yicheng Wang et.al.|[2412.07704](http://arxiv.org/abs/2412.07704)|null|
+|**2024-12-10**|**CoinCLIP: A Multimodal Framework for Evaluating the Viability of Memecoins in the Web3 Ecosystem**|Hou-Wan Long et.al.|[2412.07591](http://arxiv.org/abs/2412.07591)|null|
+|**2024-12-10**|**Multimodal Sentiment Analysis Based on Causal Reasoning**|Fuhai Chen et.al.|[2412.07292](http://arxiv.org/abs/2412.07292)|null|
+|**2024-12-10**|**Attention Head Purification: A New Perspective to Harness CLIP for Domain Generalization**|Yingfan Wang et.al.|[2412.07226](http://arxiv.org/abs/2412.07226)|null|
+|**2024-12-10**|**MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models**|Sayak Chakrabarty et.al.|[2412.07148](http://arxiv.org/abs/2412.07148)|**[link](https://github.com/souradipp76/mm-poe)**|
+|**2024-12-10**|**MIT-10M: A Large Scale Parallel Corpus of Multilingual Image Translation**|Bo Li et.al.|[2412.07147](http://arxiv.org/abs/2412.07147)|null|
+|**2024-12-10**|**DiffCLIP: Few-shot Language-driven Multimodal Classifier**|Jiaqing Zhang et.al.|[2412.07119](http://arxiv.org/abs/2412.07119)|**[link](https://github.com/icey-zhang/diffclip)**|
+|**2024-12-10**|**Maya: An Instruction Finetuned Multilingual Multimodal Model**|Nahid Alam et.al.|[2412.07112](http://arxiv.org/abs/2412.07112)|**[link](https://github.com/nahidalam/maya)**|
+|**2024-12-10**|**Retaining and Enhancing Pre-trained Knowledge in Vision-Language Models with Prompt Ensembling**|Donggeun Kim et.al.|[2412.07077](http://arxiv.org/abs/2412.07077)|null|
 |**2024-12-09**|**Visual Lexicon: Rich Image Features in Language Space**|XuDong Wang et.al.|[2412.06774](http://arxiv.org/abs/2412.06774)|null|
 |**2024-12-09**|**Ranking-aware adapter for text-driven image ordering with CLIP**|Wei-Hsiang Yu et.al.|[2412.06760](http://arxiv.org/abs/2412.06760)|**[link](https://github.com/uynaes/rankingawareclip)**|
 |**2024-12-09**|**VP-MEL: Visual Prompts Guided Multimodal Entity Linking**|Hongze Mi et.al.|[2412.06720](http://arxiv.org/abs/2412.06720)|null|
