@@ -3440,6 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**V2PE: Improving Multimodal Long-Context Capability of Vision-Language Models with Variable Visual Position Encoding**|Junqi Ge et.al.|[2412.09616](http://arxiv.org/abs/2412.09616)|**[link](https://github.com/opengvlab/v2pe)**|
+|**2024-12-12**|**PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models**|Chenyu Yang et.al.|[2412.09613](http://arxiv.org/abs/2412.09613)|null|
+|**2024-12-12**|**AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials**|Yiheng Xu et.al.|[2412.09605](http://arxiv.org/abs/2412.09605)|null|
+|**2024-12-12**|**SynerGen-VL: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding**|Hao Li et.al.|[2412.09604](http://arxiv.org/abs/2412.09604)|null|
+|**2024-12-12**|**OLA-VLM: Elevating Visual Perception in Multimodal LLMs with Auxiliary Embedding Distillation**|Jitesh Jain et.al.|[2412.09585](http://arxiv.org/abs/2412.09585)|**[link](https://github.com/shi-labs/ola-vlm)**|
+|**2024-12-12**|**Neptune: The Long Orbit to Benchmarking Long Video Understanding**|Arsha Nagrani et.al.|[2412.09582](http://arxiv.org/abs/2412.09582)|**[link](https://github.com/google-deepmind/neptune)**|
+|**2024-12-12**|**Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLM**|Han Wang et.al.|[2412.09530](http://arxiv.org/abs/2412.09530)|**[link](https://github.com/hon-wong/bytevideollm)**|
+|**2024-12-12**|**Embeddings are all you need! Achieving High Performance Medical Image Classification through Training-Free Embedding Analysis**|Raj Hansini Khoiwal et.al.|[2412.09445](http://arxiv.org/abs/2412.09445)|null|
+|**2024-12-12**|**Causal Graphical Models for Vision-Language Compositional Understanding**|Fiorenzo Parascandolo et.al.|[2412.09353](http://arxiv.org/abs/2412.09353)|null|
+|**2024-12-12**|**Towards Open-Vocabulary Video Semantic Segmentation**|Xinhao Li et.al.|[2412.09329](http://arxiv.org/abs/2412.09329)|null|
 |**2024-12-11**|**Synthetic Vision: Training Vision-Language Models to Understand Physics**|Vahid Balazadeh et.al.|[2412.08619](http://arxiv.org/abs/2412.08619)|null|
 |**2024-12-11**|**LAION-SG: An Enhanced Large-Scale Dataset for Training Complex Image-Text Models with Structural Annotations**|Zejian Li et.al.|[2412.08580](http://arxiv.org/abs/2412.08580)|**[link](https://github.com/mengcye/LAION-SG)**|
 |**2024-12-11**|**SenCLIP: Enhancing zero-shot land-use mapping for Sentinel-2 with ground-level prompting**|Pallavi Jain et.al.|[2412.08536](http://arxiv.org/abs/2412.08536)|**[link](https://github.com/pallavijain-pj/SenCLIP)**|
