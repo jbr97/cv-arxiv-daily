@@ -3461,6 +3461,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372](http://arxiv.org/abs/2412.10372)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
+|**2024-12-13**|**A model-based approach for transforming InSAR-derived vertical land motion from a local to a global reference frame**|Mahmoud Reshadati et.al.|[2412.10282](http://arxiv.org/abs/2412.10282)|null|
+|**2024-12-13**|**VLR-Bench: Multilingual Benchmark Dataset for Vision-Language Retrieval Augmented Generation**|Hyeonseok Lim et.al.|[2412.10151](http://arxiv.org/abs/2412.10151)|null|
+|**2024-12-13**|**WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model**|Songyan Zhang et.al.|[2412.09951](http://arxiv.org/abs/2412.09951)|null|
+|**2024-12-13**|**CaLoRAify: Calorie Estimation with Visual-Text Pairing and LoRA-Driven Visual Language Models**|Dongyu Yao et.al.|[2412.09936](http://arxiv.org/abs/2412.09936)|**[link](https://github.com/kennyyao2001/16824-caloraify)**|
+|**2024-12-12**|**BayesAdapter: enhanced uncertainty estimation in CLIP few-shot adaptation**|Pablo Morales-Álvarez et.al.|[2412.09718](http://arxiv.org/abs/2412.09718)|null|
 |**2024-12-13**|**V2PE: Improving Multimodal Long-Context Capability of Vision-Language Models with Variable Visual Position Encoding**|Junqi Ge et.al.|[2412.09616](http://arxiv.org/abs/2412.09616)|**[link](https://github.com/opengvlab/v2pe)**|
 |**2024-12-12**|**PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models**|Chenyu Yang et.al.|[2412.09613](http://arxiv.org/abs/2412.09613)|null|
 |**2024-12-12**|**AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials**|Yiheng Xu et.al.|[2412.09605](http://arxiv.org/abs/2412.09605)|null|
