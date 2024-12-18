@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.17
+## Updated on 2024.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3444,7 +3444,7 @@ layout: default
 |**2024-12-16**|**Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning**|Qi Sun et.al.|[2412.11974](http://arxiv.org/abs/2412.11974)|**[link](https://github.com/declare-lab/emma-x)**|
 |**2024-12-16**|**Explainable Procedural Mistake Detection**|Shane Storks et.al.|[2412.11927](http://arxiv.org/abs/2412.11927)|null|
 |**2024-12-16**|**Does VLM Classification Benefit from LLM Description Semantics?**|Pingchuan Ma et.al.|[2412.11917](http://arxiv.org/abs/2412.11917)|null|
-|**2024-12-16**|**From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach**|Xilin Wang et.al.|[2412.11892](http://arxiv.org/abs/2412.11892)|null|
+|**2024-12-17**|**From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach**|Xilin Wang et.al.|[2412.11892](http://arxiv.org/abs/2412.11892)|null|
 |**2024-12-16**|**GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training**|Renqiu Xia et.al.|[2412.11863](http://arxiv.org/abs/2412.11863)|**[link](https://github.com/unimodal4reasoning/geox)**|
 |**2024-12-16**|**CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution**|Bingwen Hu et.al.|[2412.11609](http://arxiv.org/abs/2412.11609)|null|
 |**2024-12-16**|**Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**|Shihan Wu et.al.|[2412.11509](http://arxiv.org/abs/2412.11509)|**[link](https://github.com/koorye/skiptuning)**|
