@@ -3461,6 +3461,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Incorporating Feature Pyramid Tokenization and Open Vocabulary Semantic Segmentation**|Jianyu Zhang et.al.|[2412.14145](http://arxiv.org/abs/2412.14145)|null|
+|**2024-12-18**|**Performance Gap in Entity Knowledge Extraction Across Modalities in Vision Language Models**|Ido Cohen et.al.|[2412.14133](http://arxiv.org/abs/2412.14133)|**[link](https://github.com/ido-co/vlm-modality-gap)**|
+|**2024-12-18**|**Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models**|Xinghang Li et.al.|[2412.14058](http://arxiv.org/abs/2412.14058)|null|
+|**2024-12-18**|**Real Classification by Description: Extending CLIP's Limits of Part Attributes Recognition**|Ethan Baron et.al.|[2412.13947](http://arxiv.org/abs/2412.13947)|null|
+|**2024-12-18**|**A Concept-Centric Approach to Multi-Modality Learning**|Yuchong Geng et.al.|[2412.13847](http://arxiv.org/abs/2412.13847)|null|
+|**2024-12-18**|**Towards Automatic Evaluation for Image Transcreation**|Simran Khanuja et.al.|[2412.13717](http://arxiv.org/abs/2412.13717)|null|
+|**2024-12-18**|**Read Like a Radiologist: Efficient Vision-Language Model for 3D Medical Imaging Interpretation**|Changsun Lee et.al.|[2412.13558](http://arxiv.org/abs/2412.13558)|null|
+|**2024-12-18**|**Language-guided Medical Image Segmentation with Target-informed Multi-level Contrastive Alignments**|Mingjian Li et.al.|[2412.13533](http://arxiv.org/abs/2412.13533)|null|
+|**2024-12-18**|**Dynamic Adapter with Semantics Disentangling for Cross-lingual Cross-modal Retrieval**|Rui Cai et.al.|[2412.13510](http://arxiv.org/abs/2412.13510)|null|
+|**2024-12-17**|**Bringing Multimodality to Amazon Visual Search System**|Xinliang Zhu et.al.|[2412.13364](http://arxiv.org/abs/2412.13364)|null|
 |**2024-12-17**|**Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents**|Yifei Zhou et.al.|[2412.13194](http://arxiv.org/abs/2412.13194)|null|
 |**2024-12-17**|**HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**|Chen Bao et.al.|[2412.13187](http://arxiv.org/abs/2412.13187)|null|
 |**2024-12-17**|**A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis**|Xiao Zhou et.al.|[2412.13126](http://arxiv.org/abs/2412.13126)|null|
