@@ -3461,6 +3461,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|null|
+|**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190](http://arxiv.org/abs/2412.15190)|null|
+|**2024-12-19**|**ObjVariantEnsemble: Advancing Point Cloud LLM Evaluation in Challenging Scenes with Subtly Distinguished Objects**|Qihang Cao et.al.|[2412.14837](http://arxiv.org/abs/2412.14837)|null|
+|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680](http://arxiv.org/abs/2412.14680)|null|
+|**2024-12-19**|**RefHCM: A Unified Model for Referring Perceptions in Human-Centric Scenarios**|Jie Huang et.al.|[2412.14643](http://arxiv.org/abs/2412.14643)|**[link](https://github.com/jjjymmm/refhcm)**|
+|**2024-12-19**|**Adaptive Prompt Tuning: Vision Guided Prompt Tuning with Cross-Attention for Fine-Grained Few-Shot Learning**|Eric Brouwer et.al.|[2412.14640](http://arxiv.org/abs/2412.14640)|null|
+|**2024-12-19**|**HarmonicEval: Multi-modal, Multi-task, Multi-criteria Automatic Evaluation Using a Vision Language Model**|Masanari Ohi et.al.|[2412.14613](http://arxiv.org/abs/2412.14613)|null|
+|**2024-12-19**|**GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering**|Saumya Saxena et.al.|[2412.14480](http://arxiv.org/abs/2412.14480)|null|
+|**2024-12-19**|**MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**|Junjie Zhou et.al.|[2412.14475](http://arxiv.org/abs/2412.14475)|null|
+|**2024-12-19**|**VISA: Retrieval Augmented Generation with Visual Source Attribution**|Xueguang Ma et.al.|[2412.14457](http://arxiv.org/abs/2412.14457)|null|
 |**2024-12-18**|**Incorporating Feature Pyramid Tokenization and Open Vocabulary Semantic Segmentation**|Jianyu Zhang et.al.|[2412.14145](http://arxiv.org/abs/2412.14145)|null|
 |**2024-12-18**|**Performance Gap in Entity Knowledge Extraction Across Modalities in Vision Language Models**|Ido Cohen et.al.|[2412.14133](http://arxiv.org/abs/2412.14133)|**[link](https://github.com/ido-co/vlm-modality-gap)**|
 |**2024-12-18**|**Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models**|Xinghang Li et.al.|[2412.14058](http://arxiv.org/abs/2412.14058)|null|
