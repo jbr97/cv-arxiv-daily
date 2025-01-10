@@ -3461,10 +3461,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Harnessing Large Language and Vision-Language Models for Robust Out-of-Distribution Detection**|Pei-Kang Lee et.al.|[2501.05228](http://arxiv.org/abs/2501.05228)|null|
+|**2025-01-09**|**Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning**|Huabin Liu et.al.|[2501.05069](http://arxiv.org/abs/2501.05069)|null|
+|**2025-01-09**|**UAV-VLA: Vision-Language-Action System for Large Scale Aerial Mission Generation**|Oleg Sautenkov et.al.|[2501.05014](http://arxiv.org/abs/2501.05014)|null|
+|**2025-01-09**|**Seeing with Partial Certainty: Conformal Prediction for Robotic Scene Recognition in Built Environments**|Yifan Xu et.al.|[2501.04947](http://arxiv.org/abs/2501.04947)|null|
 |**2025-01-08**|**RadGPT: Constructing 3D Image-Text Tumor Datasets**|Pedro R. A. S. Bassi et.al.|[2501.04678](http://arxiv.org/abs/2501.04678)|**[link](https://github.com/mrgiovanni/radgpt)**|
 |**2025-01-08**|**Unified Coding for Both Human Perception and Generalized Machine Analytics with CLIP Supervision**|Kangsheng Yin et.al.|[2501.04579](http://arxiv.org/abs/2501.04579)|**[link](https://github.com/yinkangsheng/ug-icm)**|
 |**2025-01-08**|**Supervision-free Vision-Language Alignment**|Giorgio Giannone et.al.|[2501.04568](http://arxiv.org/abs/2501.04568)|null|
-|**2025-01-08**|**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**|Run Luo et.al.|[2501.04561](http://arxiv.org/abs/2501.04561)|null|
+|**2025-01-09**|**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**|Run Luo et.al.|[2501.04561](http://arxiv.org/abs/2501.04561)|null|
 |**2025-01-08**|**Online Gaussian Test-Time Adaptation of Vision-Language Models**|Clément Fuchs et.al.|[2501.04352](http://arxiv.org/abs/2501.04352)|**[link](https://github.com/cfuchs2023/oga)**|
 |**2025-01-08**|**Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs**|Zeyi Huang et.al.|[2501.04336](http://arxiv.org/abs/2501.04336)|null|
 |**2025-01-08**|**Eve: Efficient Multimodal Vision Language Models with Elastic Visual Experts**|Miao Rang et.al.|[2501.04322](http://arxiv.org/abs/2501.04322)|null|
