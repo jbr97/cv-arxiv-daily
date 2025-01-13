@@ -3440,6 +3440,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**VideoAuteur: Towards Long Narrative Video Generation**|Junfei Xiao et.al.|[2501.06173](http://arxiv.org/abs/2501.06173)|null|
+|**2025-01-10**|**CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems**|Haichao Liu et.al.|[2501.06132](http://arxiv.org/abs/2501.06132)|null|
+|**2025-01-10**|**Generate, Transduct, Adapt: Iterative Transduction with VLMs**|Oindrila Saha et.al.|[2501.06031](http://arxiv.org/abs/2501.06031)|null|
+|**2025-01-10**|**Scalable Vision Language Model Training via High Quality Data Curation**|Hongyuan Dong et.al.|[2501.05952](http://arxiv.org/abs/2501.05952)|null|
+|**2025-01-10**|**VideoRAG: Retrieval-Augmented Generation over Video Corpus**|Soyeong Jeong et.al.|[2501.05874](http://arxiv.org/abs/2501.05874)|null|
+|**2025-01-10**|**Super-class guided Transformer for Zero-Shot Attribute Classification**|Sehyung Kim et.al.|[2501.05728](http://arxiv.org/abs/2501.05728)|**[link](https://github.com/mlvlab/SugaFormer)**|
+|**2025-01-10**|**Zero-shot Shark Tracking and Biometrics from Aerial Imagery**|Chinmay K Lalgudi et.al.|[2501.05717](http://arxiv.org/abs/2501.05717)|null|
+|**2025-01-09**|**Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding**|Mohammed Elhenawy et.al.|[2501.05566](http://arxiv.org/abs/2501.05566)|null|
+|**2025-01-09**|**Infecting Generative AI With Viruses**|David Noever et.al.|[2501.05542](http://arxiv.org/abs/2501.05542)|null|
 |**2025-01-09**|**Harnessing Large Language and Vision-Language Models for Robust Out-of-Distribution Detection**|Pei-Kang Lee et.al.|[2501.05228](http://arxiv.org/abs/2501.05228)|null|
 |**2025-01-09**|**Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning**|Huabin Liu et.al.|[2501.05069](http://arxiv.org/abs/2501.05069)|null|
 |**2025-01-09**|**UAV-VLA: Vision-Language-Action System for Large Scale Aerial Mission Generation**|Oleg Sautenkov et.al.|[2501.05014](http://arxiv.org/abs/2501.05014)|null|
