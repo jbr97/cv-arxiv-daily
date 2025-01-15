@@ -3440,11 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking**|Yukai Ma et.al.|[2501.08168](http://arxiv.org/abs/2501.08168)|null|
+|**2025-01-14**|**Exploring visual language models as a powerful tool in the diagnosis of Ewing Sarcoma**|Alvaro Pastor-Naranjo et.al.|[2501.08042](http://arxiv.org/abs/2501.08042)|null|
+|**2025-01-14**|**Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding**|Liping Yuan et.al.|[2501.07888](http://arxiv.org/abs/2501.07888)|null|
+|**2025-01-14**|**Visual Language Models as Operator Agents in the Space Domain**|Alejandro Carrasco et.al.|[2501.07802](http://arxiv.org/abs/2501.07802)|null|
+|**2025-01-14**|**BMIP: Bi-directional Modality Interaction Prompt Learning for VLM**|Song-Lin Lv et.al.|[2501.07769](http://arxiv.org/abs/2501.07769)|null|
 |**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554](http://arxiv.org/abs/2501.07554)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
 |**2025-01-13**|**RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment**|Difei Gu et.al.|[2501.07525](http://arxiv.org/abs/2501.07525)|**[link](https://github.com/difeigu/radalign)**|
 |**2025-01-13**|**Can Vision-Language Models Evaluate Handwritten Math?**|Oikantik Nath et.al.|[2501.07244](http://arxiv.org/abs/2501.07244)|null|
 |**2025-01-13**|**Exploring the Use of Contrastive Language-Image Pre-Training for Human Posture Classification: Insights from Yoga Pose Analysis**|Andrzej D. Dobrzycki et.al.|[2501.07221](http://arxiv.org/abs/2501.07221)|null|
-|**2025-01-13**|**BIOMEDICA: An Open Biomedical Image-Caption Archive, Dataset, and Vision-Language Models Derived from Scientific Literature**|Alejandro Lozano et.al.|[2501.07171](http://arxiv.org/abs/2501.07171)|**[link](https://github.com/minwoosun/biomedica-etl)**|
+|**2025-01-14**|**BIOMEDICA: An Open Biomedical Image-Caption Archive, Dataset, and Vision-Language Models Derived from Scientific Literature**|Alejandro Lozano et.al.|[2501.07171](http://arxiv.org/abs/2501.07171)|**[link](https://github.com/minwoosun/biomedica-etl)**|
 |**2025-01-13**|**Duplex: Dual Prototype Learning for Compositional Zero-Shot Learning**|Zhong Peng et.al.|[2501.07114](http://arxiv.org/abs/2501.07114)|null|
 |**2025-01-12**|**MedGrad E-CLIP: Enhancing Trust and Transparency in AI-Driven Skin Lesion Diagnosis**|Sadia Kamal et.al.|[2501.06887](http://arxiv.org/abs/2501.06887)|null|
 |**2025-01-12**|**Application of Vision-Language Model to Pedestrians Behavior and Scene Understanding in Autonomous Driving**|Haoxiang Gao et.al.|[2501.06680](http://arxiv.org/abs/2501.06680)|null|
