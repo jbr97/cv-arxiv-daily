@@ -3461,6 +3461,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**MMDocIR: Benchmarking Multi-Modal Retrieval for Long Documents**|Kuicai Dong et.al.|[2501.08828](http://arxiv.org/abs/2501.08828)|null|
+|**2025-01-15**|**IDEA: Image Description Enhanced CLIP-Adapter**|Zhipeng Ye et.al.|[2501.08816](http://arxiv.org/abs/2501.08816)|null|
+|**2025-01-15**|**XMusic: Towards a Generalized and Controllable Symbolic Music Generation Framework**|Sida Tian et.al.|[2501.08809](http://arxiv.org/abs/2501.08809)|null|
+|**2025-01-15**|**Admitting Ignorance Helps the Video Question Answering Models to Answer**|Haopeng Li et.al.|[2501.08771](http://arxiv.org/abs/2501.08771)|null|
+|**2025-01-14**|**FLAVARS: A Multimodal Foundational Language and Vision Alignment Model for Remote Sensing**|Isaac Corley et.al.|[2501.08490](http://arxiv.org/abs/2501.08490)|null|
 |**2025-01-14**|**LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking**|Yukai Ma et.al.|[2501.08168](http://arxiv.org/abs/2501.08168)|null|
 |**2025-01-14**|**Exploring visual language models as a powerful tool in the diagnosis of Ewing Sarcoma**|Alvaro Pastor-Naranjo et.al.|[2501.08042](http://arxiv.org/abs/2501.08042)|null|
 |**2025-01-14**|**Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding**|Liping Yuan et.al.|[2501.07888](http://arxiv.org/abs/2501.07888)|null|
