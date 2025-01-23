@@ -3461,6 +3461,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding**|Boqiang Zhang et.al.|[2501.13106](http://arxiv.org/abs/2501.13106)|**[link](https://github.com/damo-nlp-sg/videollama3)**|
+|**2025-01-22**|**Adapting OpenAI's CLIP Model for Few-Shot Image Inspection in Manufacturing Quality Control: An Expository Case Study with Multiple Application Examples**|Fadel M. Megahed et.al.|[2501.12596](http://arxiv.org/abs/2501.12596)|null|
+|**2025-01-22**|**ViDDAR: Vision Language Model-Based Task-Detrimental Content Detection for Augmented Reality**|Yanming Xiu et.al.|[2501.12553](http://arxiv.org/abs/2501.12553)|**[link](https://github.com/ym-xiu/viddar-dataset)**|
+|**2025-01-21**|**CroMe: Multimodal Fake News Detection using Cross-Modal Tri-Transformer and Metric Learning**|Eunjee Choi et.al.|[2501.12422](http://arxiv.org/abs/2501.12422)|null|
+|**2025-01-20**|**ImageRef-VL: Enabling Contextual Image Referencing in Vision-Language Models**|Jingwei Yi et.al.|[2501.12418](http://arxiv.org/abs/2501.12418)|**[link](https://github.com/bytedance/imageref-vl)**|
 |**2025-01-20**|**SimLabel: Consistency-Guided OOD Detection with Pretrained Vision-Language Models**|Shu Zou et.al.|[2501.11485](http://arxiv.org/abs/2501.11485)|**[link](https://github.com/shuzou-1/simlabel)**|
 |**2025-01-20**|**MASS: Overcoming Language Bias in Image-Text Matching**|Jiwan Chung et.al.|[2501.11469](http://arxiv.org/abs/2501.11469)|null|
 |**2025-01-20**|**The "Law" of the Unconscious Contrastive Learner: Probabilistic Alignment of Unpaired Modalities**|Yongwei Che et.al.|[2501.11326](http://arxiv.org/abs/2501.11326)|**[link](https://github.com/yongweiche/unconsciouscontrastivelearner)**|
