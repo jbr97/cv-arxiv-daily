@@ -3440,6 +3440,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Scenario Understanding of Traffic Scenes Through Large Visual Language Models**|Rivera Esteban et.al.|[2501.17131](http://arxiv.org/abs/2501.17131)|null|
+|**2025-01-28**|**Modulating CNN Features with Pre-Trained ViT Representations for Open-Vocabulary Object Detection**|Xiangyu Gao et.al.|[2501.16981](http://arxiv.org/abs/2501.16981)|null|
+|**2025-01-28**|**Image-based Geo-localization for Robotics: Are Black-box Vision-Language Models there yet?**|Sania Waheed et.al.|[2501.16947](http://arxiv.org/abs/2501.16947)|null|
+|**2025-01-28**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|null|
+|**2025-01-28**|**Document Screenshot Retrievers are Vulnerable to Pixel Poisoning Attacks**|Shengyao Zhuang et.al.|[2501.16902](http://arxiv.org/abs/2501.16902)|null|
+|**2025-01-28**|**One Head Eight Arms: Block Matrix based Low Rank Adaptation for CLIP-based Few-Shot Learning**|Chunpeng Zhou et.al.|[2501.16720](http://arxiv.org/abs/2501.16720)|null|
+|**2025-01-28**|**Improving Vision-Language-Action Model with Online Reinforcement Learning**|Yanjiang Guo et.al.|[2501.16664](http://arxiv.org/abs/2501.16664)|null|
+|**2025-01-27**|**PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding**|Wei Chow et.al.|[2501.16411](http://arxiv.org/abs/2501.16411)|null|
 |**2025-01-27**|**RelightVid: Temporal-Consistent Diffusion Model for Video Relighting**|Ye Fang et.al.|[2501.16330](http://arxiv.org/abs/2501.16330)|null|
 |**2025-01-27**|**Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models**|Jing Zhang et.al.|[2501.16282](http://arxiv.org/abs/2501.16282)|null|
 |**2025-01-27**|**AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants**|Pascal J. Sager et.al.|[2501.16150](http://arxiv.org/abs/2501.16150)|null|
