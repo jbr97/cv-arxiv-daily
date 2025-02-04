@@ -3464,9 +3464,9 @@
 |**2025-01-31**|**Homogeneity Bias as Differential Sampling Uncertainty in Language Models**|Messi H. J. Lee et.al.|[2501.19337](http://arxiv.org/abs/2501.19337)|null|
 |**2025-01-31**|**$\infty$ -Video: A Training-Free Approach to Long Video Understanding via Continuous-Time Memory Consolidation**|Saul Santos et.al.|[2501.19098](http://arxiv.org/abs/2501.19098)|**[link](https://github.com/deep-spin/infinite-video)**|
 |**2025-01-31**|**Fairness Analysis of CLIP-Based Foundation Models for X-Ray Image Classification**|Xiangyu Sun et.al.|[2501.19086](http://arxiv.org/abs/2501.19086)|null|
-|**2025-01-31**|**Contrast-Aware Calibration for Fine-Tuned CLIP: Leveraging Image-Text Alignment**|Song-Lin Lv et.al.|[2501.19060](http://arxiv.org/abs/2501.19060)|null|
+|**2025-02-03**|**Contrast-Aware Calibration for Fine-Tuned CLIP: Leveraging Image-Text Alignment**|Song-Lin Lv et.al.|[2501.19060](http://arxiv.org/abs/2501.19060)|null|
 |**2025-01-31**|**RLS3: RL-Based Synthetic Sample Selection to Enhance Spatial Reasoning in Vision-Language Models for Indoor Autonomous Perception**|Joshua R. Waite et.al.|[2501.18880](http://arxiv.org/abs/2501.18880)|null|
-|**2025-01-31**|**UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent**|Jianke Zhang et.al.|[2501.18867](http://arxiv.org/abs/2501.18867)|null|
+|**2025-02-03**|**UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent**|Jianke Zhang et.al.|[2501.18867](http://arxiv.org/abs/2501.18867)|null|
 |**2025-01-30**|**INT: Instance-Specific Negative Mining for Task-Generic Promptable Segmentation**|Jian Hu et.al.|[2501.18753](http://arxiv.org/abs/2501.18753)|null|
 |**2025-01-30**|**Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models**|Yi Ding et.al.|[2501.18533](http://arxiv.org/abs/2501.18533)|null|
 |**2025-01-30**|**Pre-Trained Vision-Language Model Selection and Reuse for Downstream Tasks**|Hao-Zhe Tan et.al.|[2501.18271](http://arxiv.org/abs/2501.18271)|null|
