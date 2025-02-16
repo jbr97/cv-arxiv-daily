@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3444,7 +3444,7 @@ layout: default
 |**2025-02-13**|**FE-LWS: Refined Image-Text Representations via Decoder Stacking and Fused Encodings for Remote Sensing Image Captioning**|Swadhin Das et.al.|[2502.09282](http://arxiv.org/abs/2502.09282)|null|
 |**2025-02-13**|**From large language models to multimodal AI: A scoping review on the potential of generative AI in medicine**|Lukas Buess et.al.|[2502.09242](http://arxiv.org/abs/2502.09242)|null|
 |**2025-02-13**|**OpenBench: A New Benchmark and Baseline for Semantic Navigation in Smart Logistics**|Junhui Wang et.al.|[2502.09238](http://arxiv.org/abs/2502.09238)|null|
-|**2025-02-13**|**LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**|Daocheng Fu et.al.|[2502.09170](http://arxiv.org/abs/2502.09170)|null|
+|**2025-02-13**|**LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**|Daocheng Fu et.al.|[2502.09170](http://arxiv.org/abs/2502.09170)|**[link](https://github.com/PJLab-ADG/LimSim)**|
 |**2025-02-13**|**The influence of visual and linguistic cues on ignorance inference in Vision-Language Models (VLMs)**|Ye-eun Cho et.al.|[2502.09120](http://arxiv.org/abs/2502.09120)|null|
 |**2025-02-13**|**Vision-Language In-Context Learning Driven Few-Shot Visual Inspection Model**|Shiryu Ueno et.al.|[2502.09057](http://arxiv.org/abs/2502.09057)|null|
 |**2025-02-13**|**AIDE: Agentically Improve Visual Language Model with Domain Experts**|Ming-Chang Chiu et.al.|[2502.09051](http://arxiv.org/abs/2502.09051)|null|
