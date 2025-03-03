@@ -3906,7 +3906,7 @@
 |**2024-12-09**|**DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction**|Yunheng Li et.al.|[2412.06244](http://arxiv.org/abs/2412.06244)|null|
 |**2024-12-09**|**Evaluating Model Perception of Color Illusions in Photorealistic Scenes**|Lingjun Mao et.al.|[2412.06184](http://arxiv.org/abs/2412.06184)|**[link](https://github.com/mao1207/RCID)**|
 |**2024-12-09**|**Holmes-VAU: Towards Long-term Video Anomaly Understanding at Any Granularity**|Huaxin Zhang et.al.|[2412.06171](http://arxiv.org/abs/2412.06171)|**[link](https://github.com/pipixin321/holmesvau)**|
-|**2024-12-08**|**Post-hoc Probabilistic Vision-Language Models**|Anton Baumann et.al.|[2412.06014](http://arxiv.org/abs/2412.06014)|null|
+|**2024-12-08**|**Post-hoc Probabilistic Vision-Language Models**|Anton Baumann et.al.|[2412.06014](http://arxiv.org/abs/2412.06014)|**[link](https://github.com/AaltoML/BayesVLM)**|
 |**2024-12-06**|**Multimodal Fact-Checking with Vision Language Models: A Probing Classifier based Solution with Embedding Strategies**|Recep Firat Cekinel et.al.|[2412.05155](http://arxiv.org/abs/2412.05155)|**[link](https://github.com/firatcekinel/Multimodal-Fact-Checking-with-Vision-Language-Models)**|
 |**2024-12-06**|**Findings of the Second BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora**|Michael Y. Hu et.al.|[2412.05149](http://arxiv.org/abs/2412.05149)|null|
 |**2024-12-06**|**Gla-AI4BioMed at RRG24: Visual Instruction-tuned Adaptation for Radiology Report Generation**|Xi Zhang et.al.|[2412.04954](http://arxiv.org/abs/2412.04954)|**[link](https://github.com/Glasgow-AI4BioMed/RRG-BioNLP-ACL2024)**|
