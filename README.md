@@ -3469,7 +3469,7 @@
 |**2025-02-27**|**EgoNormia: Benchmarking Physical Social Norm Understanding**|MohammadHossein Rezaei et.al.|[2502.20490](http://arxiv.org/abs/2502.20490)|null|
 |**2025-02-27**|**Visual Adaptive Prompting for Compositional Zero-Shot Learning**|Kyle Stein et.al.|[2502.20292](http://arxiv.org/abs/2502.20292)|null|
 |**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277](http://arxiv.org/abs/2502.20277)|null|
-|**2025-02-27**|**VDT-Auto: End-to-end Autonomous Driving with VLM-Guided Diffusion Transformers**|Ziang Guo et.al.|[2502.20108](http://arxiv.org/abs/2502.20108)|null|
+|**2025-03-01**|**VDT-Auto: End-to-end Autonomous Driving with VLM-Guided Diffusion Transformers**|Ziang Guo et.al.|[2502.20108](http://arxiv.org/abs/2502.20108)|null|
 |**2025-02-27**|**AsymLoRA: Harmonizing Data Conflicts and Commonalities in MLLMs**|Xuyang Wei et.al.|[2502.20035](http://arxiv.org/abs/2502.20035)|**[link](https://github.com/clin0212/hydralora)**|
 |**2025-02-27**|**Space Rotation with Basis Transformation for Training-free Test-Time Adaptation**|Chenhao Ding et.al.|[2502.19946](http://arxiv.org/abs/2502.19946)|null|
 |**2025-02-27**|**C-Drag: Chain-of-Thought Driven Motion Controller for Video Generation**|Yuhao Li et.al.|[2502.19868](http://arxiv.org/abs/2502.19868)|null|
