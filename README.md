@@ -3461,6 +3461,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation**|Aishik Konwer et.al.|[2503.04639](http://arxiv.org/abs/2503.04639)|null|
+|**2025-03-06**|**A Benchmark for Multi-Lingual Vision-Language Learning in Remote Sensing Image Captioning**|Qing Zhou et.al.|[2503.04592](http://arxiv.org/abs/2503.04592)|null|
+|**2025-03-06**|**TPC: Cross-Temporal Prediction Connection for Vision-Language Model Hallucination Reduction**|Chao Wang et.al.|[2503.04457](http://arxiv.org/abs/2503.04457)|null|
+|**2025-03-06**|**From Idea to CAD: A Language Model-Driven Multi-Agent System for Collaborative Design**|Felix Ocker et.al.|[2503.04417](http://arxiv.org/abs/2503.04417)|null|
+|**2025-03-06**|**ObjMST: An Object-Focused Multimodal Style Transfer Framework**|Chanda Grover Kamra et.al.|[2503.04353](http://arxiv.org/abs/2503.04353)|null|
+|**2025-03-06**|**Towards Autonomous Reinforcement Learning for Real-World Robotic Manipulation with Large Language Models**|Niccolò Turcato et.al.|[2503.04280](http://arxiv.org/abs/2503.04280)|null|
+|**2025-03-06**|**Synthetic Data is an Elegant GIFT for Continual Vision-Language Models**|Bin Wu et.al.|[2503.04229](http://arxiv.org/abs/2503.04229)|null|
+|**2025-03-05**|**Vision-Language Models Struggle to Align Entities across Modalities**|Iñigo Alonso et.al.|[2503.03854](http://arxiv.org/abs/2503.03854)|null|
+|**2025-03-05**|**Decoupling the components of geometric understanding in Vision Language Models**|Eliza Kosoy et.al.|[2503.03840](http://arxiv.org/abs/2503.03840)|null|
 |**2025-03-05**|**CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning**|Yuqi Zhou et.al.|[2503.03743](http://arxiv.org/abs/2503.03743)|null|
 |**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734](http://arxiv.org/abs/2503.03734)|null|
 |**2025-03-05**|**LION-FS: Fast & Slow Video-Language Thinker as Online Video Assistant**|Wei Li et.al.|[2503.03663](http://arxiv.org/abs/2503.03663)|null|
