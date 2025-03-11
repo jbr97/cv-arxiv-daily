@@ -3440,6 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487](http://arxiv.org/abs/2503.07487)|null|
+|**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/abs/2503.07485)|null|
+|**2025-03-10**|**VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models**|Jiacheng Ruan et.al.|[2503.07478](http://arxiv.org/abs/2503.07478)|null|
+|**2025-03-10**|**Anatomy-Aware Conditional Image-Text Retrieval**|Meng Zheng et.al.|[2503.07456](http://arxiv.org/abs/2503.07456)|null|
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
+|**2025-03-10**|**FedRand: Enhancing Privacy in Federated Learning with Randomized LoRA Subparameter Updates**|Sangwoo Park et.al.|[2503.07216](http://arxiv.org/abs/2503.07216)|null|
+|**2025-03-10**|**PoseLess: Depth-Free Vision-to-Joint Control via Direct Image Mapping with VLM**|Alan Dao et.al.|[2503.07111](http://arxiv.org/abs/2503.07111)|null|
+|**2025-03-10**|**XR-VLM: Cross-Relationship Modeling with Multi-part Prompts and Visual Features for Fine-Grained Recognition**|Chuanming Wang et.al.|[2503.07075](http://arxiv.org/abs/2503.07075)|null|
+|**2025-03-10**|**Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning**|Huilin Deng et.al.|[2503.07065](http://arxiv.org/abs/2503.07065)|null|
+|**2025-03-10**|**Learning a Unified Degradation-aware Representation Model for Multi-modal Image Fusion**|Haolong Ma et.al.|[2503.07033](http://arxiv.org/abs/2503.07033)|null|
 |**2025-03-07**|**VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method**|Weiyu Ma et.al.|[2503.05383](http://arxiv.org/abs/2503.05383)|null|
 |**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-07**|**Visual Cues of Gender and Race are Associated with Stereotyping in Vision-Language Models**|Messi H. J. Lee et.al.|[2503.05093](http://arxiv.org/abs/2503.05093)|null|
