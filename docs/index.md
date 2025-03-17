@@ -3440,6 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**|Matteo Farina et.al.|[2503.11609](http://arxiv.org/abs/2503.11609)|null|
+|**2025-03-14**|**Similarity-Aware Token Pruning: Your VLM but Faster**|Ahmadreza Jeddi et.al.|[2503.11549](http://arxiv.org/abs/2503.11549)|null|
+|**2025-03-14**|**Watch and Learn: Leveraging Expert Knowledge and Language for Surgical Video Understanding**|David Gastager et.al.|[2503.11392](http://arxiv.org/abs/2503.11392)|null|
+|**2025-03-14**|**PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture**|Xiaokang Wei et.al.|[2503.11368](http://arxiv.org/abs/2503.11368)|null|
+|**2025-03-14**|**Road Rage Reasoning with Vision-language Models (VLMs): Task Definition and Evaluation Dataset**|Yibing Weng et.al.|[2503.11342](http://arxiv.org/abs/2503.11342)|null|
+|**2025-03-14**|**DynRsl-VLM: Enhancing Autonomous Driving Perception with Dynamic Resolution Vision-Language Models**|Xirui Zhou et.al.|[2503.11265](http://arxiv.org/abs/2503.11265)|null|
+|**2025-03-14**|**DeskVision: Large Scale Desktop Region Captioning for Advanced GUI Agents**|Yibin Xu et.al.|[2503.11170](http://arxiv.org/abs/2503.11170)|null|
+|**2025-03-14**|**Quantifying Interpretability in CLIP Models with Concept Consistency**|Avinash Madasu et.al.|[2503.11103](http://arxiv.org/abs/2503.11103)|null|
+|**2025-03-14**|**A Survey on Self-supervised Contrastive Learning for Multimodal Text-Image Analysis**|Asifullah Khan et.al.|[2503.11101](http://arxiv.org/abs/2503.11101)|null|
+|**2025-03-14**|**Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection**|Chuhan Zhang et.al.|[2503.11005](http://arxiv.org/abs/2503.11005)|null|
 |**2025-03-13**|**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**|Jiaming Liu et.al.|[2503.10631](http://arxiv.org/abs/2503.10631)|null|
 |**2025-03-13**|**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**|Yi Yang et.al.|[2503.10615](http://arxiv.org/abs/2503.10615)|**[link](https://github.com/Fancy-MLLM/R1-onevision)**|
 |**2025-03-13**|**CoSTA $\ast$ : Cost-Sensitive Toolpath Agent for Multi-turn Image Editing**|Advait Gupta et.al.|[2503.10613](http://arxiv.org/abs/2503.10613)|**[link](https://github.com/tianyi-lab/CoSTAR)**|
