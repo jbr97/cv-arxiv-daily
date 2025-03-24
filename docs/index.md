@@ -3440,6 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models**|Jianing Qi et.al.|[2503.17349](http://arxiv.org/abs/2503.17349)|null|
+|**2025-03-21**|**Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology**|Devavrat Tomar et.al.|[2503.17238](http://arxiv.org/abs/2503.17238)|null|
+|**2025-03-21**|**Not Only Text: Exploring Compositionality of Visual Representations in Vision-Language Models**|Davide Berasi et.al.|[2503.17142](http://arxiv.org/abs/2503.17142)|null|
+|**2025-03-21**|**Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection**|Gensheng Pei et.al.|[2503.17080](http://arxiv.org/abs/2503.17080)|null|
+|**2025-03-21**|**ExCap3D: Expressive 3D Scene Understanding via Object Captioning with Varying Detail**|Chandan Yeshwanth et.al.|[2503.17044](http://arxiv.org/abs/2503.17044)|null|
+|**2025-03-21**|**Token Dynamics: Towards Efficient and Dynamic Video Token Representation for Video Large Language Models**|Haichao Zhang et.al.|[2503.16980](http://arxiv.org/abs/2503.16980)|null|
+|**2025-03-21**|**When Words Outperform Vision: VLMs Can Self-Improve Via Text-Only Training For Human-Centered Decision Making**|Zhe Hu et.al.|[2503.16965](http://arxiv.org/abs/2503.16965)|null|
+|**2025-03-21**|**PE-CLIP: A Parameter-Efficient Fine-Tuning of Vision Language Models for Dynamic Facial Expression Recognition**|Ibtissam Saadi et.al.|[2503.16945](http://arxiv.org/abs/2503.16945)|null|
+|**2025-03-21**|**Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks**|Haijin Zeng et.al.|[2503.16930](http://arxiv.org/abs/2503.16930)|null|
+|**2025-03-21**|**TEMPO: Temporal Preference Optimization of Video LLMs via Difficulty Scheduling and Pre-SFT Alignment**|Shicheng Li et.al.|[2503.16929](http://arxiv.org/abs/2503.16929)|null|
 |**2025-03-20**|**GAEA: A Geolocation Aware Conversational Model**|Ron Campos et.al.|[2503.16423](http://arxiv.org/abs/2503.16423)|null|
 |**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|null|
 |**2025-03-20**|**Exploring the Hidden Reasoning Process of Large Language Models by Misleading Them**|Guanyu Chen et.al.|[2503.16401](http://arxiv.org/abs/2503.16401)|null|
