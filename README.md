@@ -3461,6 +3461,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|null|
+|**2025-03-25**|**Towards Online Multi-Modal Social Interaction Understanding**|Xinpeng Li et.al.|[2503.19851](http://arxiv.org/abs/2503.19851)|null|
+|**2025-03-25**|**FALCONEye: Finding Answers and Localizing Content in ONE-hour-long videos with multi-modal LLMs**|Carlos Plou et.al.|[2503.19850](http://arxiv.org/abs/2503.19850)|null|
+|**2025-03-25**|**FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model**|Jun Zhou et.al.|[2503.19839](http://arxiv.org/abs/2503.19839)|null|
+|**2025-03-25**|**SeLIP: Similarity Enhanced Contrastive Language Image Pretraining for Multi-modal Head MRI**|Zhiyang Liu et.al.|[2503.19801](http://arxiv.org/abs/2503.19801)|null|
+|**2025-03-25**|**LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation**|Vladan Stojnić et.al.|[2503.19777](http://arxiv.org/abs/2503.19777)|null|
+|**2025-03-25**|**ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation**|Haoyu Fu et.al.|[2503.19755](http://arxiv.org/abs/2503.19755)|null|
+|**2025-03-25**|**Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models**|Ilias Stogiannidis et.al.|[2503.19707](http://arxiv.org/abs/2503.19707)|null|
+|**2025-03-25**|**Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection**|Andrii Yermakov et.al.|[2503.19683](http://arxiv.org/abs/2503.19683)|**[link](https://github.com/yermandy/deepfake-detection)**|
+|**2025-03-25**|**RGB-Th-Bench: A Dense benchmark for Visual-Thermal Understanding of Vision Language Models**|Mehdi Moshtaghi et.al.|[2503.19654](http://arxiv.org/abs/2503.19654)|null|
 |**2025-03-24**|**Video SimpleQA: Towards Factuality Evaluation in Large Video Language Models**|Meng Cao et.al.|[2503.18923](http://arxiv.org/abs/2503.18923)|null|
 |**2025-03-25**|**MC-LLaVA: Multi-Concept Personalized Vision-Language Model**|Ruichuan An et.al.|[2503.18854](http://arxiv.org/abs/2503.18854)|null|
 |**2025-03-25**|**Feature Calibration enhanced Parameter Synthesis for CLIP-based Class-incremental Learning**|Juncen Guo et.al.|[2503.18672](http://arxiv.org/abs/2503.18672)|null|
