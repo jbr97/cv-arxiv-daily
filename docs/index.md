@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3444,7 +3444,7 @@ layout: default
 |**2025-03-31**|**It's a (Blind) Match! Towards Vision-Language Correspondence without Parallel Data**|Dominik Schnaus et.al.|[2503.24129](http://arxiv.org/abs/2503.24129)|null|
 |**2025-03-31**|**AirCache: Activating Inter-modal Relevancy KV Cache Compression for Efficient Large Vision-Language Model Inference**|Kai Huang et.al.|[2503.23956](http://arxiv.org/abs/2503.23956)|null|
 |**2025-03-31**|**Communication-Efficient and Personalized Federated Foundation Model Fine-Tuning via Tri-Matrix Adaptation**|Yongle Li et.al.|[2503.23869](http://arxiv.org/abs/2503.23869)|null|
-|**2025-03-31**|**Evaluating small vision-language models as AI assistants for radio astronomical source analysis tasks**|S. Riggi et.al.|[2503.23859](http://arxiv.org/abs/2503.23859)|null|
+|**2025-04-01**|**Evaluating small vision-language models as AI assistants for radio astronomical source analysis tasks**|S. Riggi et.al.|[2503.23859](http://arxiv.org/abs/2503.23859)|null|
 |**2025-03-31**|**Texture or Semantics? Vision-Language Models Get Lost in Font Recognition**|Zhecheng Li et.al.|[2503.23768](http://arxiv.org/abs/2503.23768)|null|
 |**2025-03-31**|**KOFFVQA: An Objectively Evaluated Free-form VQA Benchmark for Large Vision-Language Models in the Korean Language**|Yoonshik Kim et.al.|[2503.23730](http://arxiv.org/abs/2503.23730)|**[link](https://github.com/maum-ai/koffvqa)**|
 |**2025-03-31**|**LATex: Leveraging Attribute-based Text Knowledge for Aerial-Ground Person Re-Identification**|Xiang Hu et.al.|[2503.23722](http://arxiv.org/abs/2503.23722)|null|
