@@ -3461,6 +3461,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Generating Fine Details of Entity Interactions**|Xinyi Gu et.al.|[2504.08714](http://arxiv.org/abs/2504.08714)|null|
+|**2025-04-11**|**FocalLens: Instruction Tuning Enables Zero-Shot Conditional Image Representations**|Cheng-Yu Hsieh et.al.|[2504.08368](http://arxiv.org/abs/2504.08368)|null|
+|**2025-04-11**|**DSM: Building A Diverse Semantic Map for 3D Visual Grounding**|Qinghongbing Xie et.al.|[2504.08307](http://arxiv.org/abs/2504.08307)|null|
+|**2025-04-11**|**VL-UR: Vision-Language-guided Universal Restoration of Images Degraded by Adverse Weather Conditions**|Ziyan Liu et.al.|[2504.08219](http://arxiv.org/abs/2504.08219)|null|
+|**2025-04-11**|**EO-VLM: VLM-Guided Energy Overload Attacks on Vision Models**|Minjae Seo et.al.|[2504.08205](http://arxiv.org/abs/2504.08205)|null|
+|**2025-04-10**|**Investigating Vision-Language Model for Point Cloud-based Vehicle Classification**|Yiqiao Li et.al.|[2504.08154](http://arxiv.org/abs/2504.08154)|null|
+|**2025-04-10**|**The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search**|Yutaro Yamada et.al.|[2504.08066](http://arxiv.org/abs/2504.08066)|null|
 |**2025-04-10**|**SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement**|Xiyao Wang et.al.|[2504.07934](http://arxiv.org/abs/2504.07934)|**[link](https://github.com/si0wang/thinklite-vl)**|
 |**2025-04-10**|**SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos**|Joshua Li et.al.|[2504.07867](http://arxiv.org/abs/2504.07867)|null|
 |**2025-04-10**|**VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**|Haozhan Shen et.al.|[2504.07615](http://arxiv.org/abs/2504.07615)|**[link](https://github.com/om-ai-lab/vlm-r1)**|
