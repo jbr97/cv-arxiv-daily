@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.17
+## Updated on 2025.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3447,7 +3447,7 @@ layout: default
 |**2025-04-16**|**AnomalyR1: A GRPO-based End-to-end MLLM for Industrial Anomaly Detection**|Yuhao Chao et.al.|[2504.11914](http://arxiv.org/abs/2504.11914)|null|
 |**2025-04-16**|**A Visual RAG Pipeline for Few-Shot Fine-Grained Product Classification**|Bianca Lamm et.al.|[2504.11838](http://arxiv.org/abs/2504.11838)|null|
 |**2025-04-16**|**DART: Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation**|Sang-Jun Park et.al.|[2504.11786](http://arxiv.org/abs/2504.11786)|null|
-|**2025-04-16**|**DVLTA-VQA: Decoupled Vision-Language Modeling with Text-Guided Adaptation for Blind Video Quality Assessment**|Li Yu et.al.|[2504.11733](http://arxiv.org/abs/2504.11733)|null|
+|**2025-04-17**|**DVLTA-VQA: Decoupled Vision-Language Modeling with Text-Guided Adaptation for Blind Video Quality Assessment**|Li Yu et.al.|[2504.11733](http://arxiv.org/abs/2504.11733)|null|
 |**2025-04-16**|**Interpreting the Linear Structure of Vision-language Model Embedding Spaces**|Isabel Papadimitriou et.al.|[2504.11695](http://arxiv.org/abs/2504.11695)|null|
 |**2025-04-16**|**VLM-Fuzz: Vision Language Model Assisted Recursive Depth-first Search Exploration for Effective UI Testing of Android Apps**|Biniam Fisseha Demissie et.al.|[2504.11675](http://arxiv.org/abs/2504.11675)|null|
 |**2025-04-15**|**MINDS: The very low-mass star and brown dwarf sample -- Hidden water in carbon-dominated protoplanetary disks**|Aditya M. Arabhavi et.al.|[2504.11425](http://arxiv.org/abs/2504.11425)|null|
