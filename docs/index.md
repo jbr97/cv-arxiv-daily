@@ -3440,6 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models**|Guo Chen et.al.|[2504.15271](http://arxiv.org/abs/2504.15271)|null|
+|**2025-04-21**|**An LMM for Efficient Video Understanding via Reinforced Compression of Video Cubes**|Ji Qi et.al.|[2504.15270](http://arxiv.org/abs/2504.15270)|null|
+|**2025-04-21**|**Tiger200K: Manually Curated High Visual Quality Video Dataset from UGC Platform**|Xianpan Zhou et.al.|[2504.15182](http://arxiv.org/abs/2504.15182)|null|
+|**2025-04-21**|**Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks: A Comprehensive Evaluation**|Hong-Tao Yu et.al.|[2504.14988](http://arxiv.org/abs/2504.14988)|**[link](https://github.com/seu-vipgroup/fg-bmk)**|
+|**2025-04-21**|**VLM as Policy: Common-Law Content Moderation Framework for Short Video Platform**|Xingyu Lu et.al.|[2504.14904](http://arxiv.org/abs/2504.14904)|null|
+|**2025-04-21**|**ReSpec: Relevance and Specificity Grounded Online Filtering for Learning on Video-Text Data Streams**|Chris Dongjoo Kim et.al.|[2504.14875](http://arxiv.org/abs/2504.14875)|**[link](https://github.com/cdjkim/respec)**|
+|**2025-04-21**|**Object-Level Verbalized Confidence Calibration in Vision-Language Models via Semantic Perturbation**|Yunpu Zhao et.al.|[2504.14848](http://arxiv.org/abs/2504.14848)|null|
+|**2025-04-20**|**OmniV-Med: Scaling Medical Vision-Language Model for Universal Visual Understanding**|Songtao Jiang et.al.|[2504.14692](http://arxiv.org/abs/2504.14692)|null|
+|**2025-04-20**|**NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation**|Junyuan Fang et.al.|[2504.14638](http://arxiv.org/abs/2504.14638)|null|
+|**2025-04-20**|**Grounding-MD: Grounded Video-language Pre-training for Open-World Moment Detection**|Weijun Zhuang et.al.|[2504.14553](http://arxiv.org/abs/2504.14553)|null|
 |**2025-04-18**|**Analysing the Robustness of Vision-Language-Models to Common Corruptions**|Muhammad Usama et.al.|[2504.13690](http://arxiv.org/abs/2504.13690)|null|
 |**2025-04-18**|**PV-VLM: A Multimodal Vision-Language Approach Incorporating Sky Images for Intra-Hour Photovoltaic Power Forecasting**|Huapeng Lin et.al.|[2504.13624](http://arxiv.org/abs/2504.13624)|null|
 |**2025-04-18**|**Compile Scene Graphs with Reinforcement Learning**|Zuyao Chen et.al.|[2504.13617](http://arxiv.org/abs/2504.13617)|**[link](https://github.com/gpt4vision/r1-sgg)**|
