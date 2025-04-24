@@ -3440,6 +3440,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Decoupled Global-Local Alignment for Improving Compositional Understanding**|Xiaoxing Hu et.al.|[2504.16801](http://arxiv.org/abs/2504.16801)|null|
+|**2025-04-23**|**Tri-FusionNet: Enhancing Image Description Generation with Transformer-based Fusion Network and Dual Attention Mechanism**|Lakshita Agarwal et.al.|[2504.16761](http://arxiv.org/abs/2504.16761)|null|
+|**2025-04-23**|**FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing**|Hariseetharam Gunduboina et.al.|[2504.16433](http://arxiv.org/abs/2504.16433)|null|
+|**2025-04-23**|**DP2FL: Dual Prompt Personalized Federated Learning in Foundation Models**|Ying Chang et.al.|[2504.16357](http://arxiv.org/abs/2504.16357)|null|
+|**2025-04-23**|**Disentangling and Generating Modalities for Recommendation in Missing Modality Scenarios**|Jiwan Kim et.al.|[2504.16352](http://arxiv.org/abs/2504.16352)|null|
+|**2025-04-22**|**CLIP-IT: CLIP-based Pairing for Histology Images Classification**|Banafsheh Karimian et.al.|[2504.16181](http://arxiv.org/abs/2504.16181)|null|
 |**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
 |**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
 |**2025-04-22**|**Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation**|Zhiyuan Hu et.al.|[2504.16073](http://arxiv.org/abs/2504.16073)|null|
