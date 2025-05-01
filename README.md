@@ -3461,6 +3461,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization**|Anas Anwarul Haq Khan et.al.|[2504.21831](http://arxiv.org/abs/2504.21831)|null|
+|**2025-04-30**|**Static or Dynamic: Towards Query-Adaptive Token Selection for Video Question Answering**|Yumeng Shi et.al.|[2504.21403](http://arxiv.org/abs/2504.21403)|null|
+|**2025-04-30**|**Synergy-CLIP: Extending CLIP with Multi-modal Integration for Robust Representation Learning**|Sangyeon Cho et.al.|[2504.21375](http://arxiv.org/abs/2504.21375)|null|
+|**2025-04-30**|**Vision-Language Model-Based Semantic-Guided Imaging Biomarker for Early Lung Cancer Detection**|Luoting Zhuang et.al.|[2504.21344](http://arxiv.org/abs/2504.21344)|null|
+|**2025-04-30**|**An Evaluation of a Visual Question Answering Strategy for Zero-shot Facial Expression Recognition in Still Images**|Modesto Castrillón-Santana et.al.|[2504.21309](http://arxiv.org/abs/2504.21309)|null|
+|**2025-04-30**|**Talk Before You Retrieve: Agent-Led Discussions for Better RAG in Medical QA**|Xuanzhao Dong et.al.|[2504.21252](http://arxiv.org/abs/2504.21252)|null|
+|**2025-04-29**|**GLIP-OOD: Zero-Shot Graph OOD Detection with Foundation Model**|Haoyan Xu et.al.|[2504.21186](http://arxiv.org/abs/2504.21186)|null|
 |**2025-04-29**|**Real-Time Wayfinding Assistant for Blind and Low-Vision Users**|Dabbrata Das et.al.|[2504.20976](http://arxiv.org/abs/2504.20976)|null|
 |**2025-04-29**|**In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer**|Zechuan Zhang et.al.|[2504.20690](http://arxiv.org/abs/2504.20690)|null|
 |**2025-04-29**|**SpaRE: Enhancing Spatial Reasoning in Vision-Language Models with Synthetic Data**|Michael Ogezi et.al.|[2504.20648](http://arxiv.org/abs/2504.20648)|null|
