@@ -3440,6 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/abs/2505.05467)|null|
+|**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Shiqi Chen et.al.|[2505.05464](http://arxiv.org/abs/2505.05464)|**[link](https://github.com/shiqichen17/vlm_merging)**|
+|**2025-05-08**|**DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning**|Wenru Liu et.al.|[2505.05360](http://arxiv.org/abs/2505.05360)|null|
+|**2025-05-08**|**Mapping User Trust in Vision Language Models: Research Landscape, Challenges, and Prospects**|Agnese Chiatti et.al.|[2505.05318](http://arxiv.org/abs/2505.05318)|null|
+|**2025-05-08**|**Biomed-DPT: Dual Modality Prompt Tuning for Biomedical Vision-Language Models**|Wei Peng et.al.|[2505.05189](http://arxiv.org/abs/2505.05189)|null|
+|**2025-05-08**|**Probabilistic Embeddings for Frozen Vision-Language Models: Uncertainty Quantification with Gaussian Process Latent Variable Models**|Aishwarya Venkataramanan et.al.|[2505.05163](http://arxiv.org/abs/2505.05163)|null|
+|**2025-05-08**|**CacheFL: Efficient Federated Cache Model Fine-Tuning for Vision-Language Models**|Mengjun Yi et.al.|[2505.05130](http://arxiv.org/abs/2505.05130)|null|
+|**2025-05-08**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071](http://arxiv.org/abs/2505.05071)|null|
+|**2025-05-08**|**Image-Text Relation Prediction for Multilingual Tweets**|Matīss Rikters et.al.|[2505.05040](http://arxiv.org/abs/2505.05040)|null|
+|**2025-05-08**|**G-FOCUS: Towards a Robust Method for Assessing UI Design Persuasiveness**|Jaehyun Jeon et.al.|[2505.05026](http://arxiv.org/abs/2505.05026)|null|
 |**2025-05-08**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512](http://arxiv.org/abs/2505.04512)|null|
 |**2025-05-07**|**DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception**|Junjie Wang et.al.|[2505.04410](http://arxiv.org/abs/2505.04410)|null|
 |**2025-05-06**|**Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**|François Role et.al.|[2505.03703](http://arxiv.org/abs/2505.03703)|null|
