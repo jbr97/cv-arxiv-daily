@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3449,7 +3449,7 @@ layout: default
 |**2025-05-08**|**CacheFL: Efficient Federated Cache Model Fine-Tuning for Vision-Language Models**|Mengjun Yi et.al.|[2505.05130](http://arxiv.org/abs/2505.05130)|null|
 |**2025-05-08**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071](http://arxiv.org/abs/2505.05071)|null|
 |**2025-05-08**|**Image-Text Relation Prediction for Multilingual Tweets**|Matīss Rikters et.al.|[2505.05040](http://arxiv.org/abs/2505.05040)|null|
-|**2025-05-08**|**G-FOCUS: Towards a Robust Method for Assessing UI Design Persuasiveness**|Jaehyun Jeon et.al.|[2505.05026](http://arxiv.org/abs/2505.05026)|null|
+|**2025-05-09**|**G-FOCUS: Towards a Robust Method for Assessing UI Design Persuasiveness**|Jaehyun Jeon et.al.|[2505.05026](http://arxiv.org/abs/2505.05026)|null|
 |**2025-05-08**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512](http://arxiv.org/abs/2505.04512)|null|
 |**2025-05-07**|**DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception**|Junjie Wang et.al.|[2505.04410](http://arxiv.org/abs/2505.04410)|null|
 |**2025-05-06**|**Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**|François Role et.al.|[2505.03703](http://arxiv.org/abs/2505.03703)|null|
