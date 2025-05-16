@@ -3461,6 +3461,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**|Ke Wang et.al.|[2505.10557](http://arxiv.org/abs/2505.10557)|**[link](https://github.com/mathllm/mathcoder)**|
+|**2025-05-15**|**MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models**|Mugilan Ganesan et.al.|[2505.10526](http://arxiv.org/abs/2505.10526)|null|
+|**2025-05-15**|**Vision language models have difficulty recognizing virtual objects**|Tyler Tran et.al.|[2505.10453](http://arxiv.org/abs/2505.10453)|null|
+|**2025-05-15**|**Coherent Language Reconstruction from Brain Recordings with Flexible Multi-Modal Input Stimuli**|Chunyu Ye et.al.|[2505.10356](http://arxiv.org/abs/2505.10356)|null|
+|**2025-05-15**|**MMRL++: Parameter-Efficient and Interaction-Aware Representation Learning for Vision-Language Models**|Yuncheng Guo et.al.|[2505.10088](http://arxiv.org/abs/2505.10088)|**[link](https://github.com/yunncheng/MMRL)**|
+|**2025-05-15**|**Descriptive Image-Text Matching with Graded Contextual Similarity**|Jinhyun Jang et.al.|[2505.09997](http://arxiv.org/abs/2505.09997)|null|
+|**2025-05-14**|**WhatsAI: Transforming Meta Ray-Bans into an Extensible Generative AI Platform for Accessibility**|Nasif Zaman et.al.|[2505.09823](http://arxiv.org/abs/2505.09823)|null|
+|**2025-05-14**|**Unfettered Forceful Skill Acquisition with Physical Reasoning and Coordinate Frame Labeling**|William Xie et.al.|[2505.09731](http://arxiv.org/abs/2505.09731)|null|
+|**2025-05-14**|**ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation**|Enyu Zhao et.al.|[2505.09698](http://arxiv.org/abs/2505.09698)|null|
 |**2025-05-14**|**Flash-VL 2B: Optimizing Vision-Language Model Performance for Ultra-Low Latency and High Throughput**|Bo Zhang et.al.|[2505.09498](http://arxiv.org/abs/2505.09498)|null|
 |**2025-05-14**|**Endo-CLIP: Progressive Self-Supervised Pre-training on Raw Colonoscopy Records**|Yili He et.al.|[2505.09435](http://arxiv.org/abs/2505.09435)|null|
 |**2025-05-14**|**MAKE: Multi-Aspect Knowledge-Enhanced Vision-Language Pretraining for Zero-shot Dermatological Assessment**|Siyuan Yan et.al.|[2505.09372](http://arxiv.org/abs/2505.09372)|**[link](https://github.com/siyuanyan1/make)**|
