@@ -3507,9 +3507,9 @@
 |**2025-05-08**|**DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning**|Wenru Liu et.al.|[2505.05360](http://arxiv.org/abs/2505.05360)|null|
 |**2025-05-08**|**Mapping User Trust in Vision Language Models: Research Landscape, Challenges, and Prospects**|Agnese Chiatti et.al.|[2505.05318](http://arxiv.org/abs/2505.05318)|null|
 |**2025-05-08**|**Biomed-DPT: Dual Modality Prompt Tuning for Biomedical Vision-Language Models**|Wei Peng et.al.|[2505.05189](http://arxiv.org/abs/2505.05189)|null|
-|**2025-05-08**|**Probabilistic Embeddings for Frozen Vision-Language Models: Uncertainty Quantification with Gaussian Process Latent Variable Models**|Aishwarya Venkataramanan et.al.|[2505.05163](http://arxiv.org/abs/2505.05163)|null|
+|**2025-05-08**|**Probabilistic Embeddings for Frozen Vision-Language Models: Uncertainty Quantification with Gaussian Process Latent Variable Models**|Aishwarya Venkataramanan et.al.|[2505.05163](http://arxiv.org/abs/2505.05163)|**[link](https://github.com/vaishwarya96/GroVE)**|
 |**2025-05-08**|**CacheFL: Efficient Federated Cache Model Fine-Tuning for Vision-Language Models**|Mengjun Yi et.al.|[2505.05130](http://arxiv.org/abs/2505.05130)|null|
-|**2025-05-08**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071](http://arxiv.org/abs/2505.05071)|null|
+|**2025-05-08**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071](http://arxiv.org/abs/2505.05071)|**[link](https://github.com/360cvgroup/fg-clip)**|
 |**2025-05-08**|**Image-Text Relation Prediction for Multilingual Tweets**|Matīss Rikters et.al.|[2505.05040](http://arxiv.org/abs/2505.05040)|null|
 |**2025-05-09**|**G-FOCUS: Towards a Robust Method for Assessing UI Design Persuasiveness**|Jaehyun Jeon et.al.|[2505.05026](http://arxiv.org/abs/2505.05026)|null|
 |**2025-05-08**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512](http://arxiv.org/abs/2505.04512)|null|
@@ -3539,7 +3539,7 @@
 |**2025-04-30**|**AnimalMotionCLIP: Embedding motion in CLIP for Animal Behavior Analysis**|Enmin Zhong et.al.|[2505.00569](http://arxiv.org/abs/2505.00569)|null|
 |**2025-05-01**|**DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation**|Zixuan Chen et.al.|[2505.00527](http://arxiv.org/abs/2505.00527)|null|
 |**2025-05-01**|**LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving**|Zhijie Qiao et.al.|[2505.00284](http://arxiv.org/abs/2505.00284)|**[link](https://github.com/michigan-traffic-lab/lightemma)**|
-|**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Md Asaduzzaman Jabin et.al.|[2505.00275](http://arxiv.org/abs/2505.00275)|null|
+|**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Md Asaduzzaman Jabin et.al.|[2505.00275](http://arxiv.org/abs/2505.00275)|**[link](https://github.com/asad14053/AdCare-VLM)**|
 |**2025-05-02**|**Empowering Agentic Video Analytics Systems with Video Language Models**|Yuxuan Yan et.al.|[2505.00254](http://arxiv.org/abs/2505.00254)|null|
 |**2025-04-30**|**Detecting and Mitigating Hateful Content in Multimodal Memes with Vision-Language Models**|Minh-Hao Van et.al.|[2505.00150](http://arxiv.org/abs/2505.00150)|null|
 |**2025-04-30**|**Investigating Zero-Shot Diagnostic Pathology in Vision-Language Models with Efficient Prompt Design**|Vasudev Sharma et.al.|[2505.00134](http://arxiv.org/abs/2505.00134)|null|
@@ -3556,7 +3556,7 @@
 |**2025-04-29**|**PRISM: Projection-based Reward Integration for Scene-Aware Real-to-Sim-to-Real Transfer with Few Demonstrations**|Haowen Sun et.al.|[2504.20520](http://arxiv.org/abs/2504.20520)|null|
 |**2025-04-29**|**Plant Disease Detection through Multimodal Large Language Models and Convolutional Neural Networks**|Konstantinos I. Roumeliotis et.al.|[2504.20419](http://arxiv.org/abs/2504.20419)|null|
 |**2025-04-29**|**Fine Grain Classification: Connecting Meta using Cross-Contrastive pre-training**|Sumit Mamtani et.al.|[2504.20322](http://arxiv.org/abs/2504.20322)|null|
-|**2025-04-28**|**mrCAD: Multimodal Refinement of Computer-aided Designs**|William P. McCarthy et.al.|[2504.20294](http://arxiv.org/abs/2504.20294)|null|
+|**2025-04-28**|**mrCAD: Multimodal Refinement of Computer-aided Designs**|William P. McCarthy et.al.|[2504.20294](http://arxiv.org/abs/2504.20294)|**[link](https://github.com/AutodeskAILab/mrCAD)**|
 |**2025-04-28**|**A Multimodal Pipeline for Clinical Data Extraction: Applying Vision-Language Models to Scans of Transfusion Reaction Reports**|Henning Schäfer et.al.|[2504.20220](http://arxiv.org/abs/2504.20220)|null|
 |**2025-04-28**|**Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains**|Juntian Zhang et.al.|[2504.20199](http://arxiv.org/abs/2504.20199)|null|
 |**2025-04-29**|**If Concept Bottlenecks are the Question, are Foundation Models the Answer?**|Nicola Debole et.al.|[2504.19774](http://arxiv.org/abs/2504.19774)|**[link](https://github.com/debryu/CQA)**|
@@ -3795,7 +3795,7 @@
 |**2025-03-21**|**Enhancing Zero-Shot Image Recognition in Vision-Language Models through Human-like Concept Guidance**|Hui Liu et.al.|[2503.15886](http://arxiv.org/abs/2503.15886)|null|
 |**2025-03-20**|**MASH-VLM: Mitigating Action-Scene Hallucination in Video-LLMs through Disentangled Spatial-Temporal Representations**|Kyungho Bae et.al.|[2503.15871](http://arxiv.org/abs/2503.15871)|null|
 |**2025-03-19**|**TULIP: Towards Unified Language-Image Pretraining**|Zineng Tang et.al.|[2503.15485](http://arxiv.org/abs/2503.15485)|null|
-|**2025-03-19**|**EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining**|Boshen Xu et.al.|[2503.15470](http://arxiv.org/abs/2503.15470)|null|
+|**2025-03-19**|**EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining**|Boshen Xu et.al.|[2503.15470](http://arxiv.org/abs/2503.15470)|**[link](https://github.com/xuboshen/egodtm)**|
 |**2025-03-19**|**EfficientLLaVA:Generalizable Auto-Pruning for Large Vision-language Models**|Yinan Liang et.al.|[2503.15369](http://arxiv.org/abs/2503.15369)|null|
 |**2025-03-19**|**A Unified Framework for Real-Time Failure Handling in Robotics Using Vision-Language Models, Reactive Planner and Behavior Trees**|Faseeh Ahmad et.al.|[2503.15202](http://arxiv.org/abs/2503.15202)|null|
 |**2025-03-19**|**VIPER: Visual Perception and Explainable Reasoning for Sequential Decision-Making**|Mohamed Salim Aissi et.al.|[2503.15108](http://arxiv.org/abs/2503.15108)|null|
@@ -3865,7 +3865,7 @@
 |**2025-03-11**|**Controlling Latent Diffusion Using Latent CLIP**|Jason Becker et.al.|[2503.08455](http://arxiv.org/abs/2503.08455)|**[link](https://github.com/jsonBackup/Latent-CLIP-Demo)**|
 |**2025-03-11**|**Debiased Prompt Tuning in Vision-Language Model without Annotations**|Chaoquan Jiang et.al.|[2503.08368](http://arxiv.org/abs/2503.08368)|null|
 |**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587](http://arxiv.org/abs/2503.07587)|null|
-|**2025-03-10**|**VisBias: Measuring Explicit and Implicit Social Biases in Vision Language Models**|Jen-tse Huang et.al.|[2503.07575](http://arxiv.org/abs/2503.07575)|null|
+|**2025-03-10**|**VisBias: Measuring Explicit and Implicit Social Biases in Vision Language Models**|Jen-tse Huang et.al.|[2503.07575](http://arxiv.org/abs/2503.07575)|**[link](https://github.com/uscnlp-lime/visbias)**|
 |**2025-03-10**|**AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning**|Yangzhe Kong et.al.|[2503.07557](http://arxiv.org/abs/2503.07557)|null|
 |**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487](http://arxiv.org/abs/2503.07487)|null|
 |**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/abs/2503.07485)|**[link](https://github.com/xr-lee/neural-symbolic)**|
@@ -4415,7 +4415,7 @@
 |**2024-11-27**|**SCoTT: Wireless-Aware Path Planning with Vision Language Models and Strategic Chains-of-Thought**|Aladin Djuhera et.al.|[2411.18212](http://arxiv.org/abs/2411.18212)|null|
 |**2024-11-27**|**TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability**|Shimin Chen et.al.|[2411.18211](http://arxiv.org/abs/2411.18211)|**[link](https://github.com/timemarker-llm/timemarker)**|
 |**2024-11-27**|**Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning**|Di Zhang et.al.|[2411.18203](http://arxiv.org/abs/2411.18203)|null|
-|**2024-11-27**|**COREval: A Comprehensive and Objective Benchmark for Evaluating the Remote Sensing Capabilities of Large Vision-Language Models**|Xiao An et.al.|[2411.18145](http://arxiv.org/abs/2411.18145)|null|
+|**2024-11-27**|**COREval: A Comprehensive and Objective Benchmark for Evaluating the Remote Sensing Capabilities of Large Vision-Language Models**|Xiao An et.al.|[2411.18145](http://arxiv.org/abs/2411.18145)|**[link](https://github.com/shawnan-whu/choice)**|
 |**2024-11-27**|**When Large Vision-Language Models Meet Person Re-Identification**|Qizao Wang et.al.|[2411.18111](http://arxiv.org/abs/2411.18111)|null|
 |**2024-11-27**|**VLM-HOI: Vision Language Models for Interpretable Human-Object Interaction Analysis**|Donggoo Kang et.al.|[2411.18038](http://arxiv.org/abs/2411.18038)|null|
 |**2024-11-28**|**Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models**|Shuyang Hao et.al.|[2411.18000](http://arxiv.org/abs/2411.18000)|null|
