@@ -3440,6 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**|Jiaqi Wang et.al.|[2505.16854](http://arxiv.org/abs/2505.16854)|null|
+|**2025-05-22**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Shufan Li et.al.|[2505.16839](http://arxiv.org/abs/2505.16839)|null|
+|**2025-05-22**|**Fact-R1: Towards Explainable Video Misinformation Detection with Deep Reasoning**|Fanrui Zhang et.al.|[2505.16836](http://arxiv.org/abs/2505.16836)|null|
+|**2025-05-22**|**SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving**|Xuesong Chen et.al.|[2505.16805](http://arxiv.org/abs/2505.16805)|null|
+|**2025-05-22**|**Representation Discrepancy Bridging Method for Remote Sensing Image-Text Retrieval**|Hailong Ning et.al.|[2505.16756](http://arxiv.org/abs/2505.16756)|null|
+|**2025-05-22**|**CoNav: Collaborative Cross-Modal Reasoning for Embodied Navigation**|Haihong Hao et.al.|[2505.16663](http://arxiv.org/abs/2505.16663)|**[link](https://github.com/oceanhao/CoNav)**|
+|**2025-05-22**|**SD-MAD: Sign-Driven Few-shot Multi-Anomaly Detection in Medical Images**|Kaiyu Guo et.al.|[2505.16659](http://arxiv.org/abs/2505.16659)|null|
+|**2025-05-22**|**Point, Detect, Count: Multi-Task Medical Image Understanding with Instruction-Tuned Vision-Language Models**|Sushant Gautam et.al.|[2505.16647](http://arxiv.org/abs/2505.16647)|null|
+|**2025-05-22**|**MEgoHand: Multimodal Egocentric Hand-Object Interaction Motion Generation**|Bohan Zhou et.al.|[2505.16602](http://arxiv.org/abs/2505.16602)|null|
+|**2025-05-22**|**What Media Frames Reveal About Stance: A Dataset and Study about Memes in Climate Change Discourse**|Shijia Zhou et.al.|[2505.16592](http://arxiv.org/abs/2505.16592)|null|
 |**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Xiuchao Sui et.al.|[2505.15685](http://arxiv.org/abs/2505.15685)|null|
 |**2025-05-21**|**FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models**|Zhen Sun et.al.|[2505.15644](http://arxiv.org/abs/2505.15644)|null|
 |**2025-05-21**|**Relationship Analysis of Image-Text Pair in SNS Posts**|Takuto Nabeoka et.al.|[2505.15629](http://arxiv.org/abs/2505.15629)|null|
