@@ -3440,6 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Hidden in plain sight: VLMs overlook their visual representations**|Stephanie Fu et.al.|[2506.08008](http://arxiv.org/abs/2506.08008)|null|
+|**2025-06-09**|**Aligning Text, Images, and 3D Structure Token-by-Token**|Aadarsh Sahoo et.al.|[2506.08002](http://arxiv.org/abs/2506.08002)|null|
+|**2025-06-09**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986](http://arxiv.org/abs/2506.07986)|null|
+|**2025-06-09**|**Reinforcing Multimodal Understanding and Generation with Dual Self-rewards**|Jixiang Hong et.al.|[2506.07963](http://arxiv.org/abs/2506.07963)|null|
+|**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Peiyan Li et.al.|[2506.07961](http://arxiv.org/abs/2506.07961)|null|
+|**2025-06-09**|**Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations**|Yizhen Li et.al.|[2506.07943](http://arxiv.org/abs/2506.07943)|null|
+|**2025-06-09**|**Mimicking or Reasoning: Rethinking Multi-Modal In-Context Learning in Vision-Language Models**|Chengyue Huang et.al.|[2506.07936](http://arxiv.org/abs/2506.07936)|null|
+|**2025-06-09**|**SAM2Auto: Auto Annotation Using FLASH**|Arash Rocky et.al.|[2506.07850](http://arxiv.org/abs/2506.07850)|null|
+|**2025-06-09**|**HAIBU-ReMUD: Reasoning Multimodal Ultrasound Dataset and Model Bridging to General Specific Domains**|Shijie Wang et.al.|[2506.07837](http://arxiv.org/abs/2506.07837)|null|
+|**2025-06-09**|**Language-Vision Planner and Executor for Text-to-Visual Reasoning**|Yichang Xu et.al.|[2506.07778](http://arxiv.org/abs/2506.07778)|null|
 |**2025-06-06**|**ExAct: A Video-Language Benchmark for Expert Action Analysis**|Han Yi et.al.|[2506.06277](http://arxiv.org/abs/2506.06277)|null|
 |**2025-06-06**|**Movie Facts and Fibs (MF $^2$ ): A Benchmark for Long Movie Understanding**|Emmanouil Zaranis et.al.|[2506.06275](http://arxiv.org/abs/2506.06275)|null|
 |**2025-06-06**|**Challenging Vision-Language Models with Surgical Data: A New Dataset and Broad Benchmarking Study**|Leon Mayer et.al.|[2506.06232](http://arxiv.org/abs/2506.06232)|null|
