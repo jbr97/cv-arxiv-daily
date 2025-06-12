@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -593,7 +593,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## SFM
 
@@ -840,7 +840,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1715,7 +1715,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1957,7 +1957,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2217,7 +2217,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## NeRF
 
@@ -3455,12 +3455,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**A Shortcut-aware Video-QA Benchmark for Physical Understanding via Minimal Video Pairs**|Benno Krojer et.al.|[2506.09987](http://arxiv.org/abs/2506.09987)|null|
+|**2025-06-11**|**From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models**|Irving Fang et.al.|[2506.09930](http://arxiv.org/abs/2506.09930)|null|
+|**2025-06-11**|**3D-Aware Vision-Language Models Fine-Tuning with Geometric Distillation**|Seonho Lee et.al.|[2506.09883](http://arxiv.org/abs/2506.09883)|**[link](https://github.com/kaist-cvml/3d-vlm-gd)**|
+|**2025-06-11**|**Adding simple structure at inference improves Vision-Language Compositionality**|Imanol Miranda et.al.|[2506.09691](http://arxiv.org/abs/2506.09691)|null|
+|**2025-06-11**|**HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**|Kunyu Peng et.al.|[2506.09650](http://arxiv.org/abs/2506.09650)|null|
+|**2025-06-11**|**FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models**|Weiying Zheng et.al.|[2506.09638](http://arxiv.org/abs/2506.09638)|null|
+|**2025-06-11**|**A High-Quality Dataset and Reliable Evaluation for Interleaved Image-Text Generation**|Yukang Feng et.al.|[2506.09427](http://arxiv.org/abs/2506.09427)|null|
+|**2025-06-11**|**Anomaly Detection and Generation with Diffusion Models: A Survey**|Yang Liu et.al.|[2506.09368](http://arxiv.org/abs/2506.09368)|null|
+|**2025-06-11**|**Ming-Omni: A Unified Multimodal Model for Perception and Generation**|Inclusion AI et.al.|[2506.09344](http://arxiv.org/abs/2506.09344)|null|
+|**2025-06-10**|**MultiNet: An Open-Source Software Toolkit \& Benchmark Suite for the Evaluation and Adaptation of Multimodal Action Models**|Pranav Guruprasad et.al.|[2506.09172](http://arxiv.org/abs/2506.09172)|null|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
 |**2025-06-10**|**Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs**|Yaniv Nikankin et.al.|[2506.09047](http://arxiv.org/abs/2506.09047)|null|
 |**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/abs/2506.09040)|null|
@@ -5037,7 +5047,7 @@
 |**2024-08-22**|**Unlocking Intrinsic Fairness in Stable Diffusion**|Eunji Kim et.al.|[2408.12692](http://arxiv.org/abs/2408.12692)|null|
 |**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590](http://arxiv.org/abs/2408.12590)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

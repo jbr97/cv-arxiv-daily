@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3440,6 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**A Shortcut-aware Video-QA Benchmark for Physical Understanding via Minimal Video Pairs**|Benno Krojer et.al.|[2506.09987](http://arxiv.org/abs/2506.09987)|null|
+|**2025-06-11**|**From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models**|Irving Fang et.al.|[2506.09930](http://arxiv.org/abs/2506.09930)|null|
+|**2025-06-11**|**3D-Aware Vision-Language Models Fine-Tuning with Geometric Distillation**|Seonho Lee et.al.|[2506.09883](http://arxiv.org/abs/2506.09883)|**[link](https://github.com/kaist-cvml/3d-vlm-gd)**|
+|**2025-06-11**|**Adding simple structure at inference improves Vision-Language Compositionality**|Imanol Miranda et.al.|[2506.09691](http://arxiv.org/abs/2506.09691)|null|
+|**2025-06-11**|**HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**|Kunyu Peng et.al.|[2506.09650](http://arxiv.org/abs/2506.09650)|null|
+|**2025-06-11**|**FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models**|Weiying Zheng et.al.|[2506.09638](http://arxiv.org/abs/2506.09638)|null|
+|**2025-06-11**|**A High-Quality Dataset and Reliable Evaluation for Interleaved Image-Text Generation**|Yukang Feng et.al.|[2506.09427](http://arxiv.org/abs/2506.09427)|null|
+|**2025-06-11**|**Anomaly Detection and Generation with Diffusion Models: A Survey**|Yang Liu et.al.|[2506.09368](http://arxiv.org/abs/2506.09368)|null|
+|**2025-06-11**|**Ming-Omni: A Unified Multimodal Model for Perception and Generation**|Inclusion AI et.al.|[2506.09344](http://arxiv.org/abs/2506.09344)|null|
+|**2025-06-10**|**MultiNet: An Open-Source Software Toolkit \& Benchmark Suite for the Evaluation and Adaptation of Multimodal Action Models**|Pranav Guruprasad et.al.|[2506.09172](http://arxiv.org/abs/2506.09172)|null|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
 |**2025-06-10**|**Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs**|Yaniv Nikankin et.al.|[2506.09047](http://arxiv.org/abs/2506.09047)|null|
 |**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/abs/2506.09040)|null|
