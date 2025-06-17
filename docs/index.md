@@ -3440,6 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762](http://arxiv.org/abs/2506.13762)|null|
+|**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Chuanruo Ning et.al.|[2506.13761](http://arxiv.org/abs/2506.13761)|null|
+|**2025-06-16**|**OTFusion: Bridging Vision-only and Vision-Language Models via Optimal Transport for Transductive Zero-Shot Learning**|Qiyu Xu et.al.|[2506.13723](http://arxiv.org/abs/2506.13723)|null|
+|**2025-06-16**|**ROSA: Harnessing Robot States for Vision-Language and Action Alignment**|Yuqing Wen et.al.|[2506.13679](http://arxiv.org/abs/2506.13679)|null|
+|**2025-06-16**|**DualEdit: Dual Editing for Knowledge Updating in Vision-Language Models**|Zhiyi Shi et.al.|[2506.13638](http://arxiv.org/abs/2506.13638)|null|
+|**2025-06-16**|**VLM-SFD: VLM-Assisted Siamese Flow Diffusion Framework for Dual-Arm Cooperative Manipulation**|Jiaming Chen et.al.|[2506.13428](http://arxiv.org/abs/2506.13428)|null|
+|**2025-06-16**|**AdaLRS: Loss-Guided Adaptive Learning Rate Search for Efficient Foundation Model Pretraining**|Hongyuan Dong et.al.|[2506.13274](http://arxiv.org/abs/2506.13274)|null|
+|**2025-06-16**|**Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments**|Xuan Wang et.al.|[2506.13205](http://arxiv.org/abs/2506.13205)|null|
+|**2025-06-16**|**Rethinking Test-Time Scaling for Medical AI: Model and Task-Aware Strategies for LLMs and VLMs**|Gyutaek Oh et.al.|[2506.13102](http://arxiv.org/abs/2506.13102)|null|
+|**2025-06-16**|**HKD4VLM: A Progressive Hybrid Knowledge Distillation Framework for Robust Multimodal Hallucination and Factuality Detection in VLMs**|Zijian Zhang et.al.|[2506.13038](http://arxiv.org/abs/2506.13038)|null|
 |**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Constantin Venhoff et.al.|[2506.11976](http://arxiv.org/abs/2506.11976)|null|
 |**2025-06-13**|**MTabVQA: Evaluating Multi-Tabular Reasoning of Language Models in Visual Space**|Anshul Singh et.al.|[2506.11684](http://arxiv.org/abs/2506.11684)|null|
 |**2025-06-13**|**VLM@school -- Evaluation of AI image understanding on German middle school knowledge**|René Peinl et.al.|[2506.11604](http://arxiv.org/abs/2506.11604)|null|
