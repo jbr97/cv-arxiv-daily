@@ -3461,6 +3461,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Unified Vision-Language-Action Model**|Yuqi Wang et.al.|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
+|**2025-06-24**|**Evaluating Compliance with Visualization Guidelines in Diagrams for Scientific Publications Using Large Vision Language Models**|Johannes Rückert et.al.|[2506.19825](http://arxiv.org/abs/2506.19825)|null|
+|**2025-06-24**|**CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation**|Hao Li et.al.|[2506.19816](http://arxiv.org/abs/2506.19816)|null|
+|**2025-06-24**|**UltraAD: Fine-Grained Ultrasound Anomaly Classification via Few-Shot CLIP Adaptation**|Yue Zhou et.al.|[2506.19694](http://arxiv.org/abs/2506.19694)|null|
+|**2025-06-24**|**PEVLM: Parallel Encoding for Vision-Language Models**|Letian Kang et.al.|[2506.19651](http://arxiv.org/abs/2506.19651)|null|
+|**2025-06-24**|**Fake or Real, Can Robots Tell? Evaluating Embodied Vision-Language Models on Real and 3D-Printed Objects**|Federico Tavella et.al.|[2506.19579](http://arxiv.org/abs/2506.19579)|null|
+|**2025-06-24**|**T-Rex: Task-Adaptive Spatial Representation Extraction for Robotic Manipulation with Vision-Language Models**|Yiteng Chen et.al.|[2506.19498](http://arxiv.org/abs/2506.19498)|null|
+|**2025-06-24**|**Emergence of Text Readability in Vision Language Models**|Jaeyoo Park et.al.|[2506.19389](http://arxiv.org/abs/2506.19389)|null|
+|**2025-06-24**|**Continual Retinal Vision-Language Pre-training upon Incremental Imaging Modalities**|Yuang Yao et.al.|[2506.19320](http://arxiv.org/abs/2506.19320)|null|
+|**2025-06-24**|**Open-Vocabulary Camouflaged Object Segmentation with Cascaded Vision Language Models**|Kai Zhao et.al.|[2506.19300](http://arxiv.org/abs/2506.19300)|null|
 |**2025-06-23**|**VQ-Insight: Teaching VLMs for AI-Generated Video Quality Understanding via Progressive Visual Reinforcement Learning**|Xuanyu Zhang et.al.|[2506.18564](http://arxiv.org/abs/2506.18564)|null|
 |**2025-06-23**|**Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey**|Xinyao Li et.al.|[2506.18504](http://arxiv.org/abs/2506.18504)|null|
 |**2025-06-23**|**AViLA: Asynchronous Vision-Language Agent for Streaming Multimodal Data Interaction**|Gengyuan Zhang et.al.|[2506.18472](http://arxiv.org/abs/2506.18472)|null|
