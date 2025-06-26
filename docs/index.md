@@ -3440,6 +3440,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction**|Zhonghao Shi et.al.|[2506.20566](http://arxiv.org/abs/2506.20566)|null|
+|**2025-06-25**|**Multimodal Representation Learning and Fusion**|Qihang Jin et.al.|[2506.20494](http://arxiv.org/abs/2506.20494)|null|
+|**2025-06-25**|**Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards**|Jihao Gu et.al.|[2506.20332](http://arxiv.org/abs/2506.20332)|null|
+|**2025-06-25**|**Towards Efficient Exemplar Based Image Editing with Multimodal VLMs**|Avadhoot Jadhav et.al.|[2506.20155](http://arxiv.org/abs/2506.20155)|null|
 |**2025-06-24**|**Unified Vision-Language-Action Model**|Yuqi Wang et.al.|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
 |**2025-06-24**|**Evaluating Compliance with Visualization Guidelines in Diagrams for Scientific Publications Using Large Vision Language Models**|Johannes Rückert et.al.|[2506.19825](http://arxiv.org/abs/2506.19825)|null|
 |**2025-06-24**|**CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation**|Hao Li et.al.|[2506.19816](http://arxiv.org/abs/2506.19816)|null|
