@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3442,7 +3442,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-26**|**Maximal Matching Matters: Preventing Representation Collapse for Robust Cross-Modal Retrieval**|Hani Alomari et.al.|[2506.21538](http://arxiv.org/abs/2506.21538)|null|
 |**2025-06-26**|**Spatial Mental Modeling from Limited Views**|Baiqiao Yin et.al.|[2506.21458](http://arxiv.org/abs/2506.21458)|null|
-|**2025-06-26**|**ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models**|Hongbo Liu et.al.|[2506.21356](http://arxiv.org/abs/2506.21356)|null|
+|**2025-06-27**|**ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models**|Hongbo Liu et.al.|[2506.21356](http://arxiv.org/abs/2506.21356)|null|
 |**2025-06-26**|**LLaVA-Pose: Enhancing Human Pose and Action Understanding via Keypoint-Integrated Instruction Tuning**|Dewen Zhang et.al.|[2506.21317](http://arxiv.org/abs/2506.21317)|null|
 |**2025-06-26**|**DrishtiKon: Multi-Granular Visual Grounding for Text-Rich Document Images**|Badri Vishal Kasuba et.al.|[2506.21316](http://arxiv.org/abs/2506.21316)|null|
 |**2025-06-26**|**Personalized Federated Learning via Dual-Prompt Optimization and Cross Fusion**|Yuguang Zhang et.al.|[2506.21144](http://arxiv.org/abs/2506.21144)|null|
