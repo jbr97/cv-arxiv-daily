@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3448,7 +3448,7 @@ layout: default
 |**2025-07-02**|**SAILViT: Towards Robust and Generalizable Visual Backbones for MLLMs via Gradual Feature Refinement**|Weijie Yin et.al.|[2507.01643](http://arxiv.org/abs/2507.01643)|null|
 |**2025-07-02**|**MARVIS: Modality Adaptive Reasoning over VISualizations**|Benjamin Feuer et.al.|[2507.01544](http://arxiv.org/abs/2507.01544)|null|
 |**2025-07-02**|**BioMARS: A Multi-Agent Robotic System for Autonomous Biological Experiments**|Yibo Qiu et.al.|[2507.01485](http://arxiv.org/abs/2507.01485)|null|
-|**2025-07-02**|**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
+|**2025-07-03**|**TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
 |**2025-07-02**|**VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process**|Cristian Gariboldi et.al.|[2507.01284](http://arxiv.org/abs/2507.01284)|null|
 |**2025-06-30**|**DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World**|Xiangtai Li et.al.|[2506.24102](http://arxiv.org/abs/2506.24102)|null|
 |**2025-06-30**|**The Illusion of Progress? A Critical Look at Test-Time Adaptation for Vision-Language Models**|Lijun Sheng et.al.|[2506.24000](http://arxiv.org/abs/2506.24000)|null|
