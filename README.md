@@ -3461,6 +3461,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Differential Attention for Multimodal Crisis Event Analysis**|Nusrat Munia et.al.|[2507.05165](http://arxiv.org/abs/2507.05165)|null|
+|**2025-07-07**|**LERa: Replanning with Visual Feedback in Instruction Following**|Svyatoslav Pchelintsev et.al.|[2507.05135](http://arxiv.org/abs/2507.05135)|null|
+|**2025-07-07**|**Adaptation of Multi-modal Representation Models for Multi-task Surgical Computer Vision**|Soham Walimbe et.al.|[2507.05020](http://arxiv.org/abs/2507.05020)|null|
+|**2025-07-07**|**Multi-modal Representations for Fine-grained Multi-label Critical View of Safety Recognition**|Britty Baby et.al.|[2507.05007](http://arxiv.org/abs/2507.05007)|null|
+|**2025-07-07**|**From Vision To Language through Graph of Events in Space and Time: An Explainable Self-supervised Approach**|Mihai Masala et.al.|[2507.04815](http://arxiv.org/abs/2507.04815)|null|
+|**2025-07-07**|**Training-free Generation of Temporally Consistent Rewards from VLMs**|Yinuo Zhao et.al.|[2507.04789](http://arxiv.org/abs/2507.04789)|null|
+|**2025-07-07**|**An analysis of vision-language models for fabric retrieval**|Francesco Giuliari et.al.|[2507.04735](http://arxiv.org/abs/2507.04735)|null|
+|**2025-07-07**|**A Visual Leap in CLIP Compositionality Reasoning through Generation of Counterfactual Sets**|Zexi Jia et.al.|[2507.04699](http://arxiv.org/abs/2507.04699)|null|
+|**2025-07-07**|**MOSU: Autonomous Long-range Robot Navigation with Multi-modal Scene Understanding**|Jing Liang et.al.|[2507.04686](http://arxiv.org/abs/2507.04686)|null|
+|**2025-07-06**|**VLM-TDP: VLM-guided Trajectory-conditioned Diffusion Policy for Robust Long-Horizon Manipulation**|Kefeng Huang et.al.|[2507.04524](http://arxiv.org/abs/2507.04524)|null|
 |**2025-07-03**|**Multimodal Mathematical Reasoning with Diverse Solving Perspective**|Wenhao Shi et.al.|[2507.02804](http://arxiv.org/abs/2507.02804)|null|
 |**2025-07-03**|**DexVLG: Dexterous Vision-Language-Grasp Model at Scale**|Jiawei He et.al.|[2507.02747](http://arxiv.org/abs/2507.02747)|null|
 |**2025-07-03**|**ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects**|Qiaojun Yu et.al.|[2507.02600](http://arxiv.org/abs/2507.02600)|null|
