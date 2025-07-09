@@ -3461,6 +3461,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
+|**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Prahitha Movva et.al.|[2507.06183](http://arxiv.org/abs/2507.06183)|null|
+|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Zhihao Chen et.al.|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
+|**2025-07-08**|**GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing**|Xianzhi Ma et.al.|[2507.05887](http://arxiv.org/abs/2507.05887)|null|
+|**2025-07-08**|**Video Event Reasoning and Prediction by Fusing World Knowledge from LLMs with Vision Foundation Models**|L'ea Dubois et.al.|[2507.05822](http://arxiv.org/abs/2507.05822)|null|
+|**2025-07-08**|**SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning**|Xin Hu et.al.|[2507.05798](http://arxiv.org/abs/2507.05798)|null|
+|**2025-07-08**|**Integrated Structural Prompt Learning for Vision-Language Models**|Jiahui Wang et.al.|[2507.05677](http://arxiv.org/abs/2507.05677)|null|
+|**2025-07-08**|**R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding**|Joonhyung Park et.al.|[2507.05673](http://arxiv.org/abs/2507.05673)|null|
+|**2025-07-08**|**Dynamic Rank Adaptation for Vision-Language Models**|Jiahui Wang et.al.|[2507.05668](http://arxiv.org/abs/2507.05668)|null|
 |**2025-07-07**|**Differential Attention for Multimodal Crisis Event Analysis**|Nusrat Munia et.al.|[2507.05165](http://arxiv.org/abs/2507.05165)|null|
 |**2025-07-07**|**LERa: Replanning with Visual Feedback in Instruction Following**|Svyatoslav Pchelintsev et.al.|[2507.05135](http://arxiv.org/abs/2507.05135)|null|
 |**2025-07-07**|**Adaptation of Multi-modal Representation Models for Multi-task Surgical Computer Vision**|Soham Walimbe et.al.|[2507.05020](http://arxiv.org/abs/2507.05020)|null|
