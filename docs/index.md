@@ -3440,6 +3440,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**L-CLIPScore: a Lightweight Embedding-based Captioning Metric for Evaluating and Training**|Li Li et.al.|[2507.08710](http://arxiv.org/abs/2507.08710)|null|
+|**2025-07-11**|**Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance**|Gábor Baranyi et.al.|[2507.08624](http://arxiv.org/abs/2507.08624)|null|
+|**2025-07-11**|**Emergent Natural Language with Communication Games for Improving Image Captioning Capabilities without Additional Data**|Parag Dutta et.al.|[2507.08610](http://arxiv.org/abs/2507.08610)|null|
+|**2025-07-11**|**BayesTTA: Continual-Temporal Test-Time Adaptation for Vision-Language Models via Gaussian Discriminant Analysis**|Shuang Cui et.al.|[2507.08607](http://arxiv.org/abs/2507.08607)|null|
+|**2025-07-11**|**Visual Semantic Description Generation with MLLMs for Image-Text Matching**|Junyu Chen et.al.|[2507.08590](http://arxiv.org/abs/2507.08590)|null|
+|**2025-07-11**|**Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R**|Pablo Robin Guerrero et.al.|[2507.08505](http://arxiv.org/abs/2507.08505)|null|
+|**2025-07-11**|**LLaPa: A Vision-Language Model Framework for Counterfactual-Aware Procedural Planning**|Shibo Sun et.al.|[2507.08496](http://arxiv.org/abs/2507.08496)|null|
+|**2025-07-11**|**Multi-modal Mutual-Guidance Conditional Prompt Learning for Vision-Language Models**|Shijun Yang et.al.|[2507.08410](http://arxiv.org/abs/2507.08410)|null|
+|**2025-07-11**|**Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning**|Chan Young Park et.al.|[2507.08224](http://arxiv.org/abs/2507.08224)|null|
 |**2025-07-10**|**Scaling RL to Long Videos**|Yukang Chen et.al.|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
 |**2025-07-10**|**SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment**|Guoxin Zang et.al.|[2507.07939](http://arxiv.org/abs/2507.07939)|null|
 |**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Lu Xu et.al.|[2507.07818](http://arxiv.org/abs/2507.07818)|null|
