@@ -3461,6 +3461,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353](http://arxiv.org/abs/2507.13353)|null|
+|**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Senqiao Yang et.al.|[2507.13348](http://arxiv.org/abs/2507.13348)|null|
+|**2025-07-17**|**Vision-and-Language Training Helps Deploy Taxonomic Knowledge but Does Not Fundamentally Alter It**|Yulu Qin et.al.|[2507.13328](http://arxiv.org/abs/2507.13328)|null|
+|**2025-07-17**|**Advancing Complex Wide-Area Scene Understanding with Hierarchical Coresets Selection**|Jingyao Wang et.al.|[2507.13061](http://arxiv.org/abs/2507.13061)|null|
+|**2025-07-17**|**Analysis of Image-and-Text Uncertainty Propagation in Multimodal Large Language Models with Cardiac MR-Based Applications**|Yucheng Tang et.al.|[2507.12945](http://arxiv.org/abs/2507.12945)|null|
+|**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
+|**2025-07-17**|**MCoT-RE: Multi-Faceted Chain-of-Thought and Re-Ranking for Training-Free Zero-Shot Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12819](http://arxiv.org/abs/2507.12819)|null|
+|**2025-07-17**|**City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning**|Penglei Sun et.al.|[2507.12795](http://arxiv.org/abs/2507.12795)|null|
+|**2025-07-16**|**VLMgineer: Vision Language Models as Robotic Toolsmiths**|George Jiayuan Gao et.al.|[2507.12644](http://arxiv.org/abs/2507.12644)|null|
+|**2025-07-16**|**MindJourney: Test-Time Scaling with World Models for Spatial Reasoning**|Yuncong Yang et.al.|[2507.12508](http://arxiv.org/abs/2507.12508)|null|
 |**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Yen-Linh Vu et.al.|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
 |**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al.|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
 |**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378](http://arxiv.org/abs/2507.12378)|null|
