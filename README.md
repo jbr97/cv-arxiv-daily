@@ -3461,6 +3461,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Yongkang Hou et.al.|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
+|**2025-07-21**|**HW-MLVQA: Elucidating Multilingual Handwritten Document Understanding with a Comprehensive VQA Benchmark**|Aniket Pal et.al.|[2507.15655](http://arxiv.org/abs/2507.15655)|null|
+|**2025-07-21**|**Smart Eyes for Silent Threats: VLMs and In-Context Learning for THz Imaging**|Nicolas Poggi et.al.|[2507.15576](http://arxiv.org/abs/2507.15576)|null|
+|**2025-07-21**|**HOLa: Zero-Shot HOI Detection with Low-Rank Decomposed VLM Feature Adaptation**|Qinqian Lei et.al.|[2507.15542](http://arxiv.org/abs/2507.15542)|null|
+|**2025-07-21**|**One Last Attention for Your Vision-Language Model**|Liang Chen et.al.|[2507.15480](http://arxiv.org/abs/2507.15480)|null|
+|**2025-07-21**|**In-context Learning of Vision Language Models for Detection of Physical and Digital Attacks against Face Recognition Systems**|Lazaro Janier Gonzalez-Soler et.al.|[2507.15285](http://arxiv.org/abs/2507.15285)|null|
+|**2025-07-21**|**VLM-UDMC: VLM-Enhanced Unified Decision-Making and Motion Control for Urban Autonomous Driving**|Haichao Liu et.al.|[2507.15266](http://arxiv.org/abs/2507.15266)|null|
+|**2025-07-20**|**Clinical Semantic Intelligence (CSI): Emulating the Cognitive Framework of the Expert Clinician for Comprehensive Oral Disease Diagnosis**|Mohammad Mashayekhi et.al.|[2507.15140](http://arxiv.org/abs/2507.15140)|null|
+|**2025-07-20**|**Survey of GenAI for Automotive Software Development: From Requirements to Executable Code**|Nenad Petrovic et.al.|[2507.15025](http://arxiv.org/abs/2507.15025)|null|
+|**2025-07-20**|**Hierarchical Cross-modal Prompt Learning for Vision-Language Models**|Hao Zheng et.al.|[2507.14976](http://arxiv.org/abs/2507.14976)|null|
 |**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Paweł Budzianowski et.al.|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
 |**2025-07-18**|**When Seeing Overrides Knowing: Disentangling Knowledge Conflicts in Vision-Language Models**|Francesco Ortu et.al.|[2507.13868](http://arxiv.org/abs/2507.13868)|null|
 |**2025-07-18**|**Team of One: Cracking Complex Video QA with Model Synergy**|Jun Xie et.al.|[2507.13820](http://arxiv.org/abs/2507.13820)|null|
