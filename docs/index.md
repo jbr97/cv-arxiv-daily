@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3448,7 +3448,7 @@ layout: default
 |**2025-07-22**|**Cross-Modal Distillation For Widely Differing Modalities**|Cairong Zhao et.al.|[2507.16296](http://arxiv.org/abs/2507.16296)|null|
 |**2025-07-22**|**Beyond Label Semantics: Language-Guided Action Anatomy for Few-shot Action Recognition**|Zefeng Qian et.al.|[2507.16287](http://arxiv.org/abs/2507.16287)|null|
 |**2025-07-22**|**Quality Text, Robust Vision: The Role of Language in Enhancing Visual Robustness of Vision-Language Models**|Futa Waseda et.al.|[2507.16257](http://arxiv.org/abs/2507.16257)|null|
-|**2025-07-22**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Yongkang Hou et.al.|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
+|**2025-07-23**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Yongkang Hou et.al.|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
 |**2025-07-21**|**HW-MLVQA: Elucidating Multilingual Handwritten Document Understanding with a Comprehensive VQA Benchmark**|Aniket Pal et.al.|[2507.15655](http://arxiv.org/abs/2507.15655)|null|
 |**2025-07-21**|**Smart Eyes for Silent Threats: VLMs and In-Context Learning for THz Imaging**|Nicolas Poggi et.al.|[2507.15576](http://arxiv.org/abs/2507.15576)|null|
 |**2025-07-21**|**HOLa: Zero-Shot HOI Detection with Low-Rank Decomposed VLM Feature Adaptation**|Qinqian Lei et.al.|[2507.15542](http://arxiv.org/abs/2507.15542)|null|
