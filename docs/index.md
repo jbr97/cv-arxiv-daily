@@ -3440,6 +3440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Yume: An Interactive World Generation Model**|Xiaofeng Mao et.al.|[2507.17744](http://arxiv.org/abs/2507.17744)|null|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2507.17722](http://arxiv.org/abs/2507.17722)|null|
+|**2025-07-23**|**Dual-branch Prompting for Multimodal Machine Translation**|Jie Wang et.al.|[2507.17588](http://arxiv.org/abs/2507.17588)|null|
+|**2025-07-23**|**InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation**|Shuai Yang et.al.|[2507.17520](http://arxiv.org/abs/2507.17520)|null|
+|**2025-07-23**|**Dynamic Scoring with Enhanced Semantics for Training-Free Human-Object Interaction Detection**|Francesco Tonini et.al.|[2507.17456](http://arxiv.org/abs/2507.17456)|null|
+|**2025-07-23**|**VLM-Guided Visual Place Recognition for Planet-Scale Geo-Localization**|Sania Waheed et.al.|[2507.17455](http://arxiv.org/abs/2507.17455)|null|
+|**2025-07-23**|**Language-Conditioned Open-Vocabulary Mobile Manipulation with Pretrained Models**|Shen Tan et.al.|[2507.17379](http://arxiv.org/abs/2507.17379)|null|
+|**2025-07-23**|**VisionTrap: Unanswerable Questions On Visual Data**|Asir Saadat et.al.|[2507.17262](http://arxiv.org/abs/2507.17262)|null|
+|**2025-07-23**|**MaskedCLIP: Bridging the Masked and CLIP Space for Semi-Supervised Medical Vision-Language Pre-training**|Lei Zhu et.al.|[2507.17239](http://arxiv.org/abs/2507.17239)|null|
+|**2025-07-23**|**HySafe-AI: Hybrid Safety Architectural Analysis Framework for AI Systems: A Case Study**|Mandar Pitale et.al.|[2507.17118](http://arxiv.org/abs/2507.17118)|null|
 |**2025-07-22**|**Cooling Matters: Benchmarking Large Language Models and Vision-Language Models on Liquid-Cooled Versus Air-Cooled H100 GPU Systems**|Imran Latif et.al.|[2507.16781](http://arxiv.org/abs/2507.16781)|null|
 |**2025-07-22**|**Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning**|Ang Li et.al.|[2507.16746](http://arxiv.org/abs/2507.16746)|null|
 |**2025-07-22**|**Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation**|Yiguo He et.al.|[2507.16716](http://arxiv.org/abs/2507.16716)|null|
